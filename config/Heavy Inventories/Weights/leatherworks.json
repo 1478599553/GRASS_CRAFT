@@ -1,0 +1,548 @@
+{
+  "oak_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tannin_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_leather_scraped": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_leather_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_mooshroom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_leather_soaked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_mule": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_polarbear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ender_pack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spruce_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_strip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_leather_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tannin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "repair_kit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_boar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "birch_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_llama": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_donkey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_leather_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_wolf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "acacia_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jungle_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crafting_leather_washed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_sheet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_deer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "debarked_log_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tannin_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bark_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "darkoak_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_cow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sealed_barrel_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pack_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leather_trunk_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_horse": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rawhide_pig": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_leather_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

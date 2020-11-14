@@ -1,0 +1,7 @@
+{
+	title: "求生之路",
+	icon: "pyrotech:material 1 12",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}

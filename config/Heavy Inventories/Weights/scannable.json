@@ -1,0 +1,68 @@
+{
+  "module_ore_rare": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_range": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_ore_common": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scanner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_entity": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_blank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_animal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_structure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "module_monster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

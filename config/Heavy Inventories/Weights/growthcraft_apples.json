@@ -1,0 +1,128 @@
+{
+  "fluid_applecider_apple_cider_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_cider_ethereal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_cider_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_cider_fermented": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_cider_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_apple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_applecider_apple_cider_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "applecider": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_crop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

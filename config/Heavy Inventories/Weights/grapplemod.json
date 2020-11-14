@@ -1,0 +1,92 @@
+{
+  "doubleupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapplinghook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "repeller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_grapple_modifier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "swingupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "launcheritem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forcefieldupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "baseupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "longfallboots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magnetupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limitsupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "throwupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "motorupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ropeupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "staffupgradeitem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "brew_kettle_lid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "achievement_dummy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brew_kettle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit_presser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cork_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "culture_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cork_bark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yeast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cork_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cork_log_stripped": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cork_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ferment_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel_tap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fruit_press": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

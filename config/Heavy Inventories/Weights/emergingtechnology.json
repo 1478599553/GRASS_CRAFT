@@ -1,0 +1,584 @@
+{
+  "nozzlesmart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedplant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paperpulp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_slimesyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquaponicbase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_spidersample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plasticsheet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "optimiser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "harvester": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "solarglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diffuser": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biocharblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquaponic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_slimesample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_cowsyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nozzleprecise": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_pigsample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filament": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "processor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plasticblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_horsesyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticsilk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_zombiesample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nutrientblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nozzlelong": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wind": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_zombiesyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticcowcooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_chickensample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tidalgenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "algae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "solar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clearplasticblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "battery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "algaebarcooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuitsuperior": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedstarchblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scrubber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticchickencooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_cowsample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuitbasic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedstarch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_pigsyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "algaebioreactor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "filler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquaponicblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plasticrod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shredder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_horsesample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticleather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticchickenraw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redbulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plasticwaste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "turbine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paperwaste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "circuitadvanced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_spidersyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bioreactor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquaponicglass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plastictissuescaffold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carbondioxideblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purplebulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "greenbulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biomassgenerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedplantblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frame": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fabricator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biochar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "emptysyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polluteddirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticpigcooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pollutedsand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hydroponic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "collector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "piezoelectric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticpigraw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquaponicport": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pollutedgravel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nozzlecomponent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bluebulb": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "injector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedplasticblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedpaper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticslime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "minecraft_chickensyringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "algaebarraw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "machinecase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scaffolder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shreddedplastic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "syntheticcowraw": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

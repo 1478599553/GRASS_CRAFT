@@ -1,0 +1,113 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  BNBGamingCore (BNBGamingCore-1.12.2-0.11.0.jar)
+Contact their authors BEFORE contacting forge
+
+// I let you down. Sorry :(
+
+Time: 4/6/20 5:16 PM
+Description: Updating screen events
+
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.bloodnbonesgaming.topography.client.gui.newstuff.GuiOptionsListNew.elementClicked(GuiOptionsListNew.java:50)
+	at com.bloodnbonesgaming.topography.client.gui.GuiCreateWorldTopography.func_73866_w_(GuiCreateWorldTopography.java:129)
+	at net.minecraft.client.gui.GuiScreen.func_146280_a(GuiScreen.java:478)
+	at net.minecraft.client.Minecraft.func_147108_a(Minecraft.java:1018)
+	at net.minecraft.client.gui.GuiWorldSelection.func_146284_a(SourceFile:85)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at net.minecraft.client.gui.GuiWorldSelection.func_73864_a(SourceFile:116)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiWorldSelection.func_146274_d(SourceFile:49)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1759)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Client thread
+Stacktrace:
+	at java.util.ArrayList.rangeCheck(ArrayList.java:653)
+	at java.util.ArrayList.get(ArrayList.java:429)
+	at com.bloodnbonesgaming.topography.client.gui.newstuff.GuiOptionsListNew.elementClicked(GuiOptionsListNew.java:50)
+	at com.bloodnbonesgaming.topography.client.gui.GuiCreateWorldTopography.func_73866_w_(GuiCreateWorldTopography.java:129)
+	at net.minecraft.client.gui.GuiScreen.func_146280_a(GuiScreen.java:478)
+	at net.minecraft.client.Minecraft.func_147108_a(Minecraft.java:1018)
+	at net.minecraft.client.gui.GuiWorldSelection.func_146284_a(SourceFile:85)
+	at net.minecraft.client.gui.GuiScreen.func_73864_a(GuiScreen.java:443)
+	at net.minecraft.client.gui.GuiWorldSelection.func_73864_a(SourceFile:116)
+	at net.minecraft.client.gui.GuiScreen.func_146274_d(GuiScreen.java:533)
+	at net.minecraft.client.gui.GuiWorldSelection.func_146274_d(SourceFile:49)
+	at net.minecraft.client.gui.GuiScreen.func_146269_k(GuiScreen.java:501)
+
+-- Affected screen --
+Details:
+	Screen name: com.bloodnbonesgaming.topography.client.gui.GuiCreateWorldTopography
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_71407_l(Minecraft.java:1759)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1098)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:398)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 420922848 bytes (401 MB) / 956301312 bytes (912 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 8 mods loaded, 8 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID             | Version      | Source                              | Signature |
+	|:------ |:-------------- |:------------ |:----------------------------------- |:--------- |
+	| LCHIJA | minecraft      | 1.12.2       | minecraft.jar                       | None      |
+	| LCHIJA | mcp            | 9.42         | minecraft.jar                       | None      |
+	| LCHIJA | FML            | 8.0.99.99    | forge-1.12.2-14.23.5.2847.jar       | None      |
+	| LCHIJA | forge          | 14.23.5.2847 | forge-1.12.2-14.23.5.2847.jar       | None      |
+	| LCHIJA | bnbgamingcore  | 0.11.0       | minecraft.jar                       | None      |
+	| LCHIJA | bnbgaminglib   | 2.17.6       | BNBGamingLib-1.12.2-2.17.6.jar      | None      |
+	| LCHIJA | custommainmenu | 2.0.9.1      | CustomMainMenu-MC1.12.2-2.0.9.1.jar | None      |
+	| LCHIJA | topography     | 1.10.1       | Topography-1.12.2-1.10.1.jar        | None      |
+
+	Loaded coremods (and transformers): 
+BNBGamingCore (BNBGamingCore-1.12.2-0.11.0.jar)
+  com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+	Launched Version: HMCL 3.2.149
+	LWJGL: 2.9.4
+	OpenGL: GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 442.19, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using GL 1.3 texture combiners.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Shaders are available because OpenGL 2.1 is supported.
+VBOs are available because OpenGL 1.5 is supported.
+
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: 
+	Current Language: 简体中文 (中国)
+	Profiler Position: N/A (disabled)
+	CPU: 6x Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz

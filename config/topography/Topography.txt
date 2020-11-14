@@ -1,0 +1,11 @@
+//If this file is deleted, a new set of default configs will be generated.
+
+//Sets if the mod should print documentation.
+printDocumentation(false)
+
+//Sets the Topography WorldType as default
+setAsDefaultWorldType()
+
+//Registers a preset. First argument is name, second is the image name, third is a description, fourth is WorldType, fifth is generator options Json.
+TheEnd = registerPreset("TheEndEarth", "images/end", "Made by Xiaoming_TX")
+TheEnd.registerDimension(0, "examples/TheEndEarth")

@@ -1,0 +1,19 @@
+type = menu
+
+customization-meta {
+  identifier = com.bloodnbonesgaming.topography.client.gui.GuiWorldSelectionOverride
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=346948%
+  action = setbuttonlabel
+  value = 开始选中的求生
+}
+
+customization {
+  identifier = %id=504948%
+  action = setbuttonlabel
+  value = 在新环境求生
+}
+

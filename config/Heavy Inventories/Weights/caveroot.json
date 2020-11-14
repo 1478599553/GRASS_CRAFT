@@ -1,0 +1,38 @@
+{
+  "torch_fungi_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_spore_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cave_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cave_root_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_spore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dried_root": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

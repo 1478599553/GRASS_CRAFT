@@ -1,0 +1,308 @@
+{
+  "shield_basic_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_lumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_flux_ra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_abyssalcraft_darkstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_riot_rftools": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tc_thaumium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_enderium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_abyssalcraft_coralium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_botania_manasteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_botania_elementium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_botania_terrasteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_soulforged_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_signalum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_riot_enderio": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_abyssalcraft_dreadium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_abyssalcraft_abyssalnite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tc_void": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_abyssalcraft_ethaxium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_tower_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield_basic_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

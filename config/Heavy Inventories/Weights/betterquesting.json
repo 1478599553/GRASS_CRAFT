@@ -1,0 +1,26 @@
+{
+  "extra_life": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "placeholder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "guide_book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "submit_station": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

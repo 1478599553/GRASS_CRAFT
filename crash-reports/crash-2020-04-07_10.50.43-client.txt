@@ -1,0 +1,119 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  Quark Plugin (Quark-r1.6-178.jar)
+  BNBGamingCore (BNBGamingCore-1.12.2-0.11.0.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+Contact their authors BEFORE contacting forge
+
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 4/7/20 10:50 AM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Custom Stuff 4 (customstuff4)
+Caused by: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected ':' at line 2 column 6 path $.“
+	at com.google.gson.Gson.fromJson(Gson.java:902)
+	at com.google.gson.Gson.fromJson(Gson.java:825)
+	at cubex2.cs4.util.JsonHelper.deserialize(JsonHelper.java:30)
+	at cubex2.cs4.util.JsonHelper.deserialize(JsonHelper.java:41)
+	at cubex2.cs4.ModLoader.initMods(ModLoader.java:35)
+	at cubex2.cs4.CustomStuff4.preInit(CustomStuff4.java:62)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+	at sun.reflect.GeneratedMethodAccessor8.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:467)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:378)
+	at net.minecraft.client.main.Main.main(SourceFile:123)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: com.google.gson.stream.MalformedJsonException: Expected ':' at line 2 column 6 path $.“
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:530)
+	at com.google.gson.stream.JsonReader.skipValue(JsonReader.java:1224)
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:218)
+	at com.google.gson.Gson.fromJson(Gson.java:887)
+	... 45 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_131, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 152716624 bytes (145 MB) / 654311424 bytes (624 MB) up to 8589934592 bytes (8192 MB)
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2847 23 mods loaded, 23 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID               | Version           | Source                                  | Signature                                |
+	|:----- |:---------------- |:----------------- |:--------------------------------------- |:---------------------------------------- |
+	| LCH   | minecraft        | 1.12.2            | minecraft.jar                           | None                                     |
+	| LCH   | mcp              | 9.42              | minecraft.jar                           | None                                     |
+	| LCH   | FML              | 8.0.99.99         | forge-1.12.2-14.23.5.2847.jar           | None                                     |
+	| LCH   | forge            | 14.23.5.2847      | forge-1.12.2-14.23.5.2847.jar           | None                                     |
+	| LCH   | bnbgamingcore    | 0.11.0            | minecraft.jar                           | None                                     |
+	| LCH   | quark            | r1.6-178          | Quark-r1.6-178.jar                      | None                                     |
+	| LCH   | autoreglib       | 1.3-32            | AutoRegLib-1.3-32.jar                   | None                                     |
+	| LCH   | bnbgaminglib     | 2.17.6            | BNBGamingLib-1.12.2-2.17.6.jar          | None                                     |
+	| LCH   | ctm              | MC1.12.2-1.0.2.31 | CTM-MC1.12.2-1.0.2.31.jar               | None                                     |
+	| LCH   | chisel           | MC1.12.2-1.0.2.45 | Chisel-MC1.12.2-1.0.2.45.jar            | None                                     |
+	| LCH   | redstoneflux     | 2.1.1             | RedstoneFlux-1.12-2.1.1.1-universal.jar | None                                     |
+	| LCH   | cofhcore         | 4.6.3             | CoFHCore-1.12.2-4.6.3.27-universal.jar  | None                                     |
+	| LCH   | cofhworld        | 1.3.1             | CoFHWorld-1.12.2-1.3.1.7-universal.jar  | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+	| LCH   | extendedrenderer | v1.0              | coroutil-1.12.1-1.2.37.jar              | None                                     |
+	| LCH   | coroutil         | 1.12.1-1.2.37     | coroutil-1.12.1-1.2.37.jar              | None                                     |
+	| LCH   | configmod        | v1.0              | coroutil-1.12.1-1.2.37.jar              | None                                     |
+	| LCH   | custommainmenu   | 2.0.9.1           | CustomMainMenu-MC1.12.2-2.0.9.1.jar     | None                                     |
+	| LCE   | customstuff4     | 0.5.3             | customstuff4-1.12.2-0.5.3.jar           | None                                     |
+	| LC    | globalgamerules  | 2.2               | GlobalGameRules-1.12.2-2.2.7.jar        | None                                     |
+	| LC    | i18nmod          | 1.12.2-1.0.8      | i18nupdatemod-1.12.2-1.0.8 (1).jar      | None                                     |
+	| LC    | topography       | 1.10.1            | Topography-1.12.2-1.10.1.jar            | None                                     |
+	| LC    | weather2         | 1.12.1-2.6.12     | weather2-1.12.1-2.6.12.jar              | None                                     |
+	| LC    | zombieawareness  | 1.12.1-1.11.16    | zombieawareness-1.12.1-1.11.16.jar      | None                                     |
+
+	Loaded coremods (and transformers): 
+Quark Plugin (Quark-r1.6-178.jar)
+  vazkii.quark.base.asm.ClassTransformer
+BNBGamingCore (BNBGamingCore-1.12.2-0.11.0.jar)
+  com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'

@@ -1,0 +1,32 @@
+{
+  "chicken": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "catcher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "breeder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "roost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "collector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

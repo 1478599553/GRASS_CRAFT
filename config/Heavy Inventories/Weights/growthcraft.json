@@ -1,0 +1,86 @@
+{
+  "salt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salt_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_nether_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "salt_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crowbar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_dark_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

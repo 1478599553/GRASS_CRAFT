@@ -1,0 +1,86 @@
+{
+  "maze_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "artifact_generation_tag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_selector_floating": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_generator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book_generation_tag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inventory_generation_single_tag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inspector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generic_solid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generic_space": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_selector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weighted_command_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inventory_generation_tag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "inventory_generation_component_tag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spawn_script": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

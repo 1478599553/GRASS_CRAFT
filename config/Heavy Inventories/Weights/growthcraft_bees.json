@@ -1,0 +1,110 @@
+{
+  "honey_comb_filled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bee": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bees_wax": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_honey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beehive": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beebox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_honey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_fermented": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_ethereal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey_jar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "honey_comb_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mead_mead_young": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

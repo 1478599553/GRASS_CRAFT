@@ -1,0 +1,131 @@
+type = menu
+
+customization-meta {
+  identifier = com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=400322%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -58
+}
+
+customization {
+  identifier = %id=400322%
+  width = 151
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400322%
+  action = setbuttonlabel
+  value = 联络其他幸存者
+}
+
+customization {
+  identifier = %id=400382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = -19
+}
+
+customization {
+  identifier = %id=400382%
+  width = 62
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400382%
+  action = setbuttonlabel
+  value = 修改环境
+}
+
+customization {
+  identifier = %id=502382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 35
+}
+
+customization {
+  identifier = %id=502382%
+  width = 62
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=502382%
+  action = setbuttonlabel
+  value = 离开
+}
+
+customization {
+  identifier = %id=376382%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 64
+}
+
+customization {
+  identifier = %id=376382%
+  action = setbuttonlabel
+  value = 
+}
+
+customization {
+  identifier = %id=400298%
+  orientation = top-left
+  x = 0
+  action = movebutton
+  y = 91
+}
+
+customization {
+  identifier = %id=400298%
+  width = 124
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400298%
+  action = setbuttonlabel
+  value = 独自一人
+}
+
+customization {
+  identifier = %id=400346%
+  orientation = mid-left
+  x = 0
+  action = movebutton
+  y = 9
+}
+
+customization {
+  identifier = %id=400346%
+  width = 62
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=400346%
+  action = setbuttonlabel
+  value = 特性集
+}
+
+customization {
+  identifier = %id=502346%
+  action = hidebutton
+}
+

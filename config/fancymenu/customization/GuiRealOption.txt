@@ -1,0 +1,42 @@
+type = menu
+
+customization-meta {
+  identifier = realsurvivor.GuiRealOption
+  renderorder = foreground
+}
+
+customization {
+  identifier = %id=620155%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=580155%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=60055%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=480155%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=520155%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=420155%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=380155%
+  action = hidebutton
+}
+

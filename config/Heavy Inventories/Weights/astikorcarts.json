@@ -1,0 +1,26 @@
+{
+  "cargocart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mobcart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plowcart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+item.addTooltip(tT);
+
+<minecraft:chest>.addTooltip("Storage, what can I say more?");

@@ -1,0 +1,32 @@
+{
+  "watercan_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watercan_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watercan_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watercan_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "watercan_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

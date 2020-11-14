@@ -1,0 +1,17 @@
+{
+	title: "石粒！",
+	x: 3.0d,
+	y: -50.0d,
+	text: [
+		"地上散落着一些小石块，我顺手把它们收入囊中。"
+	],
+	tasks: [{
+		uid: "41c12061",
+		type: "item",
+		items: [{
+			item: "pyrotech:rock"
+		}],
+		count: 10L,
+		consume_items: false
+	}]
+}

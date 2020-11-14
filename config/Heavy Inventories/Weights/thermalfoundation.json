@@ -1,0 +1,1592 @@
+{
+  "tool.excavator_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_aerotheum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "geode": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_resource": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_ender": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_fluid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rockwool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tome_experience": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diagram_redprint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tome_lexicon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass_alloy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_petrotheum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_mana": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cryotheum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_pyrotheum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bait": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_glowstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hoe_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_alloy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shield_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "security": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.legs_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shears_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.plate_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.pickaxe_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.excavator_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.bow_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_armor_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_crude_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fertilizer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.helmet_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_invar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sword_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.fishing_rod_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.axe_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.hammer_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.sickle_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool.shovel_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor.boots_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

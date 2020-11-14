@@ -1,0 +1,518 @@
+{
+  "conveyor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidconcrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_stairs1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidbiodiesel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_stairs0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration_stairs_concrete_leaded": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_stairs2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheetmetal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metaldevice1dummy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pickaxe_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration_stairs_hempcrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shovel_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skyhook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_armor_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faraday_suit_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speedloader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "revolver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earmuffs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidplantoil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "axe_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faraday_suit_feet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blueprint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "connector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faraday_suit_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluorescent_tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fake_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toolbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration_stairs_concrete_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidcreosote": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_armor_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shield": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_scaffolding_stairs0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration_stairs_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloth_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheetmetal_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chemthrower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_armor_feet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aluminum_scaffolding_stairs0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aluminum_scaffolding_stairs1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aluminum_scaffolding_stairs2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fake_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hemp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidethanol": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "graphite_electrode": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toolupgrade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_decoration2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_decoration0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_decoration1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bullet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_device1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_device0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "maintenance_kit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_device0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_device1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sword_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metaldevice0dummy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drillhead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "railgun": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jerrycan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_decoration1_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "powerpack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_armor_legs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wirecoil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_decoration": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shader_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faraday_suit_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coresample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_scaffolding_stairs1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_scaffolding_stairs2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

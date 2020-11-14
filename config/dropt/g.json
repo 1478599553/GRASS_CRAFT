@@ -1,0 +1,23 @@
+{
+  "rules": [
+    {
+      "match": {
+        "blocks": {
+          "blocks": [
+            "minecraft:deadbush"
+          ]
+        }
+      },
+      "drops": [
+        {
+          "item": {
+            "items" : [
+              "pyrotech:material:12",
+              "minecraft:stick"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

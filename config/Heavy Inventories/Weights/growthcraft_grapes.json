@@ -1,0 +1,188 @@
+{
+  "fluid_grapebooze_red_wine_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_ambrosia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_ambrosia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_wine_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_ambrosia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_wine_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_wine_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "native_grape_fruit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_wine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_wine_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_portwine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_portwine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_wine_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_wine_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "native_grape_vine0": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "native_grape_vine_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "native_grape_vine1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grapewine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_wine_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_wine_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_portwine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grape": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_wine_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_red_wine_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_wine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_green_wine_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "grape_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_grapebooze_purple_wine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

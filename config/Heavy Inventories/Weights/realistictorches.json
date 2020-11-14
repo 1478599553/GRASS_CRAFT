@@ -1,0 +1,44 @@
+{
+  "matchbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_unlit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "moving_light_source": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_lit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_smoldering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowstone_paste": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowstone_crystal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

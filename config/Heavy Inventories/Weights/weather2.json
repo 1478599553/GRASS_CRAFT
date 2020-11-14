@@ -1,0 +1,74 @@
+{
+  "tornado_siren_manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weather_deflector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weather_machine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sand_layer_placeable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tornado_sensor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weather_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wind_vane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anemometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tornado_siren": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weather_forecast": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sand_layer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pocket_sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

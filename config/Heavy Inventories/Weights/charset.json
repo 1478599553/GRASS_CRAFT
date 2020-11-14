@@ -1,0 +1,32 @@
+{
+  "barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrelcart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compression_crafter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pockettable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

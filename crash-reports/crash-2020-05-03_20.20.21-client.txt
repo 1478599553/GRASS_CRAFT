@@ -1,0 +1,330 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 2020-05-03 20:20:21 CST
+Description: Initializing game
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Custom Main Menu (custommainmenu)
+Caused by: java.lang.RuntimeException: com.google.gson.JsonSyntaxException: java.io.EOFException: End of input at line 150 column 2 path $.other
+    at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:71)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+    at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+    at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+    at net.minecraft.client.Minecraft.init(Minecraft.java:467)
+    at net.minecraft.client.Minecraft.run(Minecraft.java:3931)
+    at net.minecraft.client.main.Main.main(SourceFile:123)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+    at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: com.google.gson.JsonSyntaxException: java.io.EOFException: End of input at line 150 column 2 path $.other
+    at com.google.gson.internal.Streams.parse(Streams.java:58)
+    at com.google.gson.JsonParser.parse(JsonParser.java:84)
+    at lumien.custommainmenu.configuration.ConfigurationLoader.load(ConfigurationLoader.java:92)
+    at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:66)
+    ... 40 more
+Caused by: java.io.EOFException: End of input at line 150 column 2 path $.other
+    at com.google.gson.stream.JsonReader.nextNonWhitespace(JsonReader.java:1393)
+    at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:482)
+    at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414)
+    at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738)
+    at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+    at com.google.gson.internal.Streams.parse(Streams.java:48)
+    ... 43 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 10 (amd64) version 10.0
+  Java Version: 1.8.0_212, Eclipse OpenJ9
+  Java VM Version: Eclipse OpenJ9 VM (JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190521_368 (JIT enabled, AOT enabled)
+                   OpenJ9   - 4b1df46fe
+                   OMR      - b56045d2
+                   JCL      - a8c217d402 based on jdk8u212-b04), Eclipse OpenJ9
+  Memory: 163508896 bytes (155 MB) / 985399296 bytes (939 MB) up to 8589934592 bytes (8192 MB)
+  JVM Flags: 14 total; -Xoptionsfile=C:\Program Files\AdoptOpenJDK\jre-8.0.212.04-openj9\bin\compressedrefs\options.default -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple -Xjcl:jclse29 -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 Powered by Forge 14.23.5.2847 Optifine OptiFine_1.12.2_HD_U_F5 119 mods loaded, 119 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                   | Version           | Source                                            | Signature                                |
+       |:----- |:-------------------- |:----------------- |:------------------------------------------------- |:---------------------------------------- |
+       | LCH   | minecraft            | 1.12.2            | minecraft.jar                                     | None                                     |
+       | LCH   | mcp                  | 9.42              | minecraft.jar                                     | None                                     |
+       | LCH   | FML                  | 8.0.99.99         | forge-1.12.2-14.23.5.2847.jar                     | None                                     |
+       | LCH   | forge                | 14.23.5.2847      | forge-1.12.2-14.23.5.2847.jar                     | None                                     |
+       | LCH   | creativecoredummy    | 1.0.0             | minecraft.jar                                     | None                                     |
+       | LCH   | ivtoolkit            | 1.3.3-1.12        | minecraft.jar                                     | None                                     |
+       | LCH   | jecharacters         | 1.12.0-3.4.7      | 【拼音搜索】JustEnoughCharacters-1.12.0-3.4.7.jar       | None                                     |
+       | LCH   | itemphysic           | 1.4.0             | minecraft.jar                                     | None                                     |
+       | LCH   | bnbgamingcore        | 0.11.0            | minecraft.jar                                     | None                                     |
+       | LCH   | forgeendertech       | 1.12.2-4.5.1.0    | 【前置】ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar  | None                                     |
+       | LCH   | adpother             | 1.12.2-1.2.0.0    | [环境污染]AdPother-1.12.2-1.2.0.0-build.0454.jar      | None                                     |
+       | LCH   | antiqueatlas         | 4.6.3             | 【古式地图】antiqueatlas-1.12.2-4.6.3.jar               | None                                     |
+       | LCH   | atlasextras          | 1.8               | AtlasExtras-1.12.2-1.8.jar                        | None                                     |
+       | LCH   | bookshelf            | 2.3.590           | Bookshelf-1.12.2-2.3.590.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | betterquesting       | 3.5.323           | 【任务书】BetterQuesting-3.5.323.jar                   | None                                     |
+       | LCH   | reccomplex           | 1.4.8.2           | 【遗迹生成】RecurrentComplex-1.4.8.2.jar                | None                                     |
+       | LCH   | bq_msi               | 1.0.4             | BQ_Multiblock_Structure_Integration-1.0.4.jar     | None                                     |
+       | LCH   | gamestages           | 2.0.117           | GameStages-1.12.2-2.0.117.jar                     | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | carryon              | 1.12.3            | CarryOn+MC1.12.2+v1.12.3.jar                      | 55e88f24d04398481ae6f1ce76f65fd776f14227 |
+       | LCH   | kjlib                | 1.0.4             | kjlib-1.0.4.jar                                   | None                                     |
+       | LCH   | caveroot             | 1.1.1             | caveroot-1.1.1.jar                                | None                                     |
+       | LCH   | charset              | 0.5.6.4           | Charset-Lib-0.5.6.4.jar                           | None                                     |
+       | LCH   | chunkpregenerator    | 2.1               | Chunk+Pregenerator+V1.12-2.2.jar                  | None                                     |
+       | LCH   | cofhworld            | 1.4.0             | CoFHWorld-1.12.2-1.4.0.1-universal.jar            | None                                     |
+       | LCH   | craftstudioapi       | 1.0.0             | CraftStudio-1.0.0.93-mc1.12-alpha.jar             | None                                     |
+       | LCH   | emergingtechnology   | 1.3.25-beta       | EmergingTechnology-1.12.2-1.3.25.jar              | None                                     |
+       | LCH   | enchcontrol          | 1.1.5             | enchcontrol-1.12.2-1.1.5-0.jar                    | 503a793335572ddd78512349bd8048f536a62fdb |
+       | LCH   | engineersdecor       | 1.0.19            | engineersdecor-1.12.2-1.0.19.jar                  | ed58ed655893ced6280650866985abcae2bf7559 |
+       | LCH   | redstoneflux         | 2.1.1             | 【前置】RedstoneFlux-1.12-2.1.1.1-universal.jar       | None                                     |
+       | LCH   | cofhcore             | 4.6.6             | 【前置】CoFHCore-1.12.2-4.6.6.1-universal.jar         | None                                     |
+       | LCH   | thermalfoundation    | 2.6.7             | ThermalFoundation-1.12.2-2.6.7.1-universal.jar    | None                                     |
+       | LCH   | advancedmortars      | 1.12.2-1.7.1      | 【高级研磨】advancedmortars-1.12.2-1.7.1.jar            | None                                     |
+       | LCH   | jei                  | 4.15.0.291        | 【物品管理器】jei_1.12.2-4.15.0.291.jar                  | None                                     |
+       | LCH   | immersiveengineering | 0.12-92           | ImmersiveEngineering-0.12-92 (1).jar              | 4cb49fcde3b43048c9889e0a3d083225da926334 |
+       | LCH   | engineersdoors       | 0.8.0             | engineers_doors-1.12.2-0.8.0.jar                  | None                                     |
+       | LCH   | fastbench            | 1.7.3             | FastWorkbench-1.12.2-1.7.3.jar                    | None                                     |
+       | LCH   | llibrary             | 1.7.19            | 【前置】llibrary-1.7.19-1.12.2.jar                    | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+       | LCH   | fossil               | 8.0.4             | fossilsarcheology-8.0.4.jar                       | None                                     |
+       | LCH   | geolosys             | 3.0.10            | Geolosys-1.12.2-3.0.10.jar                        | None                                     |
+       | LCH   | hardcoredarkness     | 2.0               | HardcoreDarkness-MC1.12.2-2.0.jar                 | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+       | LCH   | mts                  | 17.4.2            | Immersive+Vehicles-1.12.2-17.4.2.jar              | None                                     |
+       | LCH   | immersivepetroleum   | 1.1.9             | immersivepetroleum-1.12.2-1.1.9.jar               | None                                     |
+       | LCH   | immersiveposts       | 0.1.5             | ImmersivePosts-0.1.5.jar                          | 0ba8738eadcf158e7fe1452255a73a022fb15feb |
+       | LCH   | trackapi             | 1.2               | TrackAPI-1.2.jar                                  | None                                     |
+       | LCH   | soundphysics         | 1.0.8             | 【声效物理】Sound-Physics-1.12.2.jar                    | None                                     |
+       | LCH   | immersiverailroading | 1.7.3             | ImmersiveRailroading-1.7.3_1.12.2.jar             | None                                     |
+       | LCH   | universalmodcore     | 1.0.0             | ImmersiveRailroading-1.7.3_1.12.2.jar             | None                                     |
+       | LCH   | crafttweaker         | 4.1.20            | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None                                     |
+       | LCH   | itemstages           | 2.0.49            | ItemStages-1.12.2-2.0.49.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | justenoughpetroleum  | 0.1               | JustEnoughPetroleum-0.1.jar                       | None                                     |
+       | LCH   | jeresources          | 0.9.2.60          | JustEnoughResources-1.12.2-0.9.2.60.jar           | None                                     |
+       | LCH   | immersivetech        | 1.7.59            | MCTImmersiveTechnology-1.12.2-1.7.59.jar          | None                                     |
+       | LCH   | mob_properties       | 1.0.4             | Mob_properties-1.12.2-v1.0.4.jar                  | None                                     |
+       | LCH   | modularmachinery     | 1.11.1            | modularmachinery-1.12.2-1.11.1.jar                | a0f0b759d895c15ceb3e3bcb5f3c2db7c582edf0 |
+       | LCH   | movingelevators      | 1.2.7             | movingelevators-1.2.7-mc1.12.jar                  | None                                     |
+       | LCH   | mtsofficialpack      | 15.0.0            | MTS_Official_Pack_V15.jar                         | None                                     |
+       | LCH   | nrg                  | 1.2.1             | nrg-MC1.12.2-0.1.0.5ee6938.jar                    | None                                     |
+       | LCH   | paraglider           | 1.0.1.5           | Paraglider-1.12.2-1.0.1.5.jar                     | None                                     |
+       | LCH   | ptrmodellib          | 1.0.4             | PTRLib-1.0.4.jar                                  | None                                     |
+       | LCH   | athenaeum            | 1.12.2-1.17.4     | 【雅典娜前置】athenaeum-1.12.2-1.17.4.jar                | None                                     |
+       | LCH   | dropt                | 1.12.2-1.17.0     | 【前置兼魔改】dropt-1.12.2-1.17.0.jar                    | None                                     |
+       | LCH   | patchouli            | 1.0-20            | 【手册API】Patchouli-1.0-20.jar                       | None                                     |
+       | LCH   | pyrotech             | 1.12.2-1.4.26     | pyrotech-1.12.2-1.4.26.jar                        | None                                     |
+       | LCH   | questbook            | 3.1.1-1.12        | questbook-3.1.1-1.12.jar                          | None                                     |
+       | LCH   | realistictorches     | 2.1.1             | RealisticTorches-1.12.2-2.1.1.jar                 | None                                     |
+       | LCH   | recipestages         | 1.1.3             | RecipeStages-1.1.3.jar                            | None                                     |
+       | LCH   | roost                | 2.0.10            | roost-1.12.2-2.0.10.jar                           | None                                     |
+       | LCH   | spartanshields       | 1.5.4             | SpartanShields-1.12.2-1.5.4.jar                   | None                                     |
+       | LCH   | tektopia             | 1.1.0             | tektopia-1.1.0.jar                                | None                                     |
+       | LCH   | texfix               | 4.0               | TexFix+V-1.12-4.0.jar                             | None                                     |
+       | LCH   | traverse             | 1.6.0             | Traverse-1.12.2-1.6.0-69 (1).jar                  | None                                     |
+       | LCH   | bnbgaminglib         | 2.17.6            | 【前置】BNBGamingLib-1.12.2-2.17.6.jar                | None                                     |
+       | LCH   | triumph              | 3.19.2            | Triumph-1.12.2-3.19.2.jar                         | None                                     |
+       | LCH   | toughasnails         | 3.1.0.139         | 【意志坚定】ToughAsNails-1.12.2-3.1.0.139-universal.jar | None                                     |
+       | LCH   | vanillafoodpantry    | 4.3.1             | vanillafoodpantry-mc1.12.2-4.3.1.jar              | None                                     |
+       | LCH   | watercan             | 1.12.2-1.1.3      | watercan-1.12.2-1.1.3.jar                         | None                                     |
+       | LCH   | zenstages            | 0.4.1-19          | zenstages-0.4.1-19.jar                            | None                                     |
+       | LCH   | badmobs              | 1.1.28            | 【ban生物】BadMobs-1.12.2-1.1.28.jar                  | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | bq_standard          | 3.4.173           | 【任务书后置】StandardExpansion-3.4.173.jar              | None                                     |
+       | LCH   | surge                | 2.0.77            | 【优化】Surge-1.12.2-2.0.77.jar                       | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | vanillafix           | 1.0.10-SNAPSHOT   | 【优化】VanillaFix-1.0.10-99.jar                      | None                                     |
+       | LCH   | coroutil             | 1.12.1-1.2.37     | 【前置】coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LCH   | zombieawareness      | 1.12.1-1.11.16    | 【僵尸意识】zombieawareness-1.12.1-1.11.16.jar          | None                                     |
+       | LCH   | globalgamerules      | 2.2               | 【全局gamerule】GlobalGameRules-1.12.2-2.2.7.jar      | None                                     |
+       | LCH   | iceandfire           | 1.8.4             | 【冰与火】iceandfire-1.8.4.jar                         | None                                     |
+       | LCH   | ctm                  | MC1.12.2-1.0.2.31 | 【前置】CTM-MC1.12.2-1.0.2.31.jar                     | None                                     |
+       | LCH   | chisel               | MC1.12.2-1.0.2.45 | 【凿子】Chisel-MC1.12.2-1.0.2.45.jar                  | None                                     |
+       | LCH   | quark                | r1.6-178          | 【夸克】Quark-r1.6-178.jar                            | None                                     |
+       | LCH   | autoreglib           | 1.3-32            | 【前置】AutoRegLib-1.3-32.jar                         | None                                     |
+       | LCH   | extendedrenderer     | v1.0              | 【前置】coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LCH   | configmod            | v1.0              | 【前置】coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LCH   | creativecore         | 1.10.0            | 【前置】CreativeCore_v1.10.10_mc1.12.2.jar            | None                                     |
+       | LCH   | forgelin             | 1.8.4             | 【前置】Forgelin-1.8.4.jar                            | None                                     |
+       | LCH   | ichunutil            | 7.2.2             | 【前置】iChunUtil-1.12.2-7.2.2.jar                    | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+       | LCH   | librarianlib         | 4.20              | 【前置】librarianlib-1.12.2-4.20-release.jar          | None                                     |
+       | LCH   | mtlib                | 3.0.6             | 【前置】MTLib-3.0.6.jar                               | None                                     |
+       | LCH   | antiqueatlasoverlay  | 1.2               | 【古式地图】antiqueatlas-1.12.2-4.6.3.jar               | None                                     |
+       | LCH   | topography           | 1.10.1            | 【地形生成】Topography-1.12.2-1.10.1.jar                | None                                     |
+       | LCH   | cttinycoal           | 1.12.2-1.0.2      | 【小块煤炭】cttinycoal-1.12.2-1.0.2.jar                 | None                                     |
+       | LCH   | monsterswarm         | 2.0.1             | 【怪物侵略】MonsterSwarm-2.0.1.jar                      | None                                     |
+       | LCH   | slurp                | 0.3               | 【意志坚定喝水】slurp-1.12-0.3.jar                        | None                                     |
+       | LCH   | bettercaves          | 1.12.2-1.0.1.1    | 【更好洞穴】bettercaves-1.12.2-1.0.1.1.jar              | None                                     |
+       | LCH   | corpse               | 1.12.2-1.0.6      | 【死亡墓碑】corpse-1.12.2-1.0.6.jar                     | None                                     |
+       | LCH   | weather2             | 1.12.1-2.6.12     | 【气候】weather2-1.12.1-2.6.12.jar                    | None                                     |
+       | LCH   | rfp2                 | 1.12.2-1.3.2      | 【真实第一人称】RealFirstPerson2-1.12.2-1.3.2.jar         | None                                     |
+       | LCH   | scannable            | 1.6.3.24          | 【矿物检测】Scannable-MC1.12.2-1.6.3.24.jar             | None                                     |
+       | LCH   | backtools            | 7.0.1             | 【背上的工具】BackTools-1.12.2-7.0.1.jar                 | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+       | LCE   | custommainmenu       | 2.0.9.1           | 【自定义主菜单】CustomMainMenu-MC1.12.2-2.0.9.1.jar       | None                                     |
+       | LC    | comforts             | 1.4.1.3           | 【舒适睡眠】comforts-1.12.2-1.4.1.3.jar                 | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+       | LC    | resourceloader       | 1.5.3             | 【资源加载器】ResourceLoader-MC1.12.1-1.5.3.jar          | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+       | LC    | baubles              | 1.5.2             | 【饰品栏】Baubles-1.12-1.5.2.jar                       | None                                     |
+       | LC    | hooked               | %VERSION%         | 【钩子】hooked-1.0.3.jar                              | None                                     |
+       | LC    | recipehandler        | 0.13              | 【防止配方冲突】NoMoreRecipeConflict-0.13(1.12.2).jar     | None                                     |
+       | LC    | tumbleweed           | 1.12-0.4.7        | 【风滚草】tumbleweed-1.12-0.4.7.jar                    | None                                     |
+       | LC    | ctgui                | 1.0.0             | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None                                     |
+       | LC    | crafttweakerjei      | 2.0.3             | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None                                     |
+       | LC    | toolprogression      | 1.12.2-1.6.9      | toolprogression-1.12.2-1.6.9.jar                  | e631d7254e451d0360d0148cb21407d5511d45e9 |
+       | LC    | phosphor-lighting    | 1.12.2-0.2.6      | 【优化】phosphor-1.12.2-0.2.6+build50-universal.jar   | f0387d288626cc2d937daa504e74af570c52a2f1 |
+       | LC    | librarianliblate     | 4.20              | 【前置】librarianlib-1.12.2-4.20-release.jar          | None                                     |
+  Loaded coremods (and transformers): Quark Plugin (【夸克】Quark-r1.6-178.jar)
+                                        vazkii.quark.base.asm.ClassTransformer
+                                      ToolProgressionPlugin (toolprogression-core-1.12.2-1.6.9.jar)
+                                        tyra314.toolprogression.core.asm.ToolProgressionClassTransformer
+                                      LoadingPlugin (【资源加载器】ResourceLoader-MC1.12.1-1.5.3.jar)
+                                        lumien.resourceloader.asm.ClassTransformer
+                                      PhosphorFMLLoadingPlugin (【优化】phosphor-1.12.2-0.2.6+build50-universal.jar)
+                                        
+                                      LoadingPlugin ([环境污染]AdPother-1.12.2-1.2.0.0-build.0454.jar)
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Vanilla
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$DynamicSurroundings
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Mesh
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Render
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$FurnaceDouble
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.BetterWithMods$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.CookingForBlockheads$Oven
+                                        com.endertech.minecraft.mods.adpother.transformers.DraconicEvolution$Generator
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$EmberBore
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$SteamEngine
+                                        com.endertech.minecraft.mods.adpother.transformers.EnderIO$StirlingGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.EngineersDecor$DecorFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FurnaceOverhaul$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FutureMC$AdvancedFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FloodLights$CarbonFloodlight
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$AutoRocket
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$Buggy
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveCraft$FurnaceTE
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityCokeOven
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityBlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityDieselGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$Motorboat
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$PortableGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveDiesel
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveSteam
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveTechnology$Boiler
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$CombustionChamber
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberSolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberLiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Mekanism$FuelwoodHeater
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Alloyer
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Crusher
+                                        com.endertech.minecraft.mods.adpother.transformers.Minecraft$AnimalFeeding
+                                        com.endertech.minecraft.mods.adpother.transformers.MoreFurnaces$IronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$InferiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$IntermediumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$PrudentiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SuperiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SupremiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$UltimateFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Natura$NetherrackFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.PneumaticCraft$AirCompressor
+                                        com.endertech.minecraft.mods.adpother.transformers.PrimalCore$RecipeHelper
+                                        com.endertech.minecraft.mods.adpother.transformers.Pyrotech$TileCombustion
+                                        com.endertech.minecraft.mods.adpother.transformers.RealisticTorches$BlockTorch
+                                        com.endertech.minecraft.mods.adpother.transformers.RFTools$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.StevesCarts$ModuleCoal
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronAlloyFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileSolidFuelGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersConstruct$HeatingStructure
+                                        com.endertech.minecraft.mods.adpother.transformers.SimpleGrinder$CoalGrinder
+                                        com.endertech.minecraft.mods.adpother.transformers.UltimateCarMod$Car
+                                        com.endertech.minecraft.mods.adpother.transformers.ViesCraft$AirShip
+                                        com.endertech.minecraft.mods.adpother.renders.AerometerRender
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockCaughtFire
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockUpdateTick
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockExploded
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$GetSkyColor
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$FurnaceFuelBurned
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$LavaTouchesWater
+                                      ParagliderLoadingPlugin (Paraglider-1.12.2-1.0.1.5.jar)
+                                        com.tictim.paraglider.asm.TransformerModelBiped
+                                      CoreModLoader (【声效物理】Sound-Physics-1.12.2.jar)
+                                        com.sonicether.soundphysics.CoreModInjector
+                                      ForgelinPlugin (【前置】Forgelin-1.8.4.jar)
+                                        
+                                      IELoadingPlugin (ImmersiveEngineering-core-0.12-92.jar)
+                                        blusunrize.immersiveengineering.common.asm.IEClassTransformer
+                                      iceandfire (【冰与火】iceandfire-1.8.4.jar)
+                                        com.github.alexthe666.iceandfire.patcher.IceAndFireRuntimePatcher
+                                      EC Core Plugin (enchcontrol-1.12.2-1.1.5-0.jar)
+                                        austeretony.enchcontrol.common.core.ECClassTransformer
+                                      VanillaFixLoadingPlugin (【优化】VanillaFix-1.0.10-99.jar)
+                                        
+                                      llibrary (llibrary-core-1.0.11-1.12.2.jar)
+                                        net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+                                        net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+                                      LibrarianLib Plugin (【前置】librarianlib-1.12.2-4.20-release.jar)
+                                        com.teamwizardry.librarianlib.asm.LibLibTransformer
+                                      CTMCorePlugin (【前置】CTM-MC1.12.2-1.0.2.31.jar)
+                                        team.chisel.ctm.client.asm.CTMTransformer
+                                      FMLLoadingPlugin (CustomTitle-1.4.jar)
+                                        cn.nmsl.PercyDan.customtitle.asm.ClassTransformer
+                                      JechCore (【拼音搜索】JustEnoughCharacters-1.12.0-3.4.7.jar)
+                                        me.towdium.jecharacters.core.JechClassTransformer
+                                      BNBGamingCore (【前置】BNBGamingCore-1.12.2-0.11.0.jar)
+                                        com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+                                      ItemPatchingLoader (【物品物理】ItemPhysic_Full_1.4.32_mc1.12.2.jar)
+                                        com.creativemd.itemphysic.ItemTransformer
+                                      CreativePatchingLoader (【前置】CreativeCore_v1.10.10_mc1.12.2.jar)
+                                        
+                                      LoadingPlugin (HardcoreDarkness-MC1.12.2-2.0.jar)
+                                        lumien.hardcoredarkness.asm.ClassTransformer
+                                      IvToolkit (【前置】IvToolkit-1.3.3-1.12.jar)
+                                        
+                                      CorePlugin (【前置】ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar)
+                                        
+                                      SurgeLoadingPlugin (【优化】Surge-1.12.2-2.0.77.jar)
+  GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+  Suspected Mods: Custom Main Menu (custommainmenu)
+  Launched Version: HMCL 3.2.149
+  LWJGL: 2.9.4
+  OpenGL: GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 442.19, NVIDIA Corporation
+  GL Caps: Using GL 1.3 multitexturing.
+           Using GL 1.3 texture combiners.
+           Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+           Shaders are available because OpenGL 2.1 is supported.
+           VBOs are available because OpenGL 1.5 is supported.
+  Using VBOs: Yes
+  Is Modded: Definitely; Client brand changed to 'fml,forge'
+  Type: Client (map_client.txt)
+  Resource Packs: Minecraft-Mod-Language-Modpack.zip
+  Current Language: 简体中文 (中国)
+  Profiler Position: N/A (disabled)
+  CPU: 6x Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz

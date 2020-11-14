@@ -1,0 +1,248 @@
+{
+  "structure_pigpen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_blacksmith": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_nitwit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_guard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_rancher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_child": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_butcher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_druid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_teacher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_captain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_home6": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_bard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_home4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_merchant_stall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_tavern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_home2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_nomad": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_school": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_lumberjack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_miner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_barracks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_townhall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chair": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_blacksmith": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_mineshaft": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_chef": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rancher_hat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_cleric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_chickencoop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_storage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_enchanter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_farmer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_guard_post": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_library": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prof_butcher": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_cowpen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_kitchen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "structure_sheeppen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

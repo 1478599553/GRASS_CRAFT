@@ -1,0 +1,212 @@
+{
+  "hammock_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_light_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sleeping_bag_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hammock_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

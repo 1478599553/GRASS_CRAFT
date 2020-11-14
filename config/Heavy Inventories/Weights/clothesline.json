@@ -1,0 +1,26 @@
+{
+  "clothesline": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clothesline_anchor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinner": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

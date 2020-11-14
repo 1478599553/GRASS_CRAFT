@@ -1,0 +1,74 @@
+{
+  "connectors": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_trash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_crate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluiddistwater": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluidsteam": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

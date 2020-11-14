@@ -1,0 +1,1520 @@
+{
+  "planks-acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedpink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterstone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedgreen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterstone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockelectrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lapis": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "andesite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks-oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockaluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks-dark-oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_pink1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_pink2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestonemossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocknickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedmagenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedwhite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedclay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diorite2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedblack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockinvar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stonebrick1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedcyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stonebrick2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "valentines": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherbrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockbronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "andesite2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "andesite1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedmagenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockgold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_brown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks-birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightblue2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedorange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_black1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_black2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightblue1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_blue1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstone-scribbles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_blue2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bricks2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedgreen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks-jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_lightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocktin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "voidstonerunic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brownstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marble2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marble1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocksteel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedyellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "voidstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_purple2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marble": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "laboratory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_purple1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedcyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockplatinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bricks1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "emerald": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "technical": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chisel_hitech": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightgray2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightgray1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedblack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "granite1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "granite2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowstone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_green2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowstone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_green1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockiron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavastone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks-spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chisel_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_red1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_red2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_charcoal2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_charcoal1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedyellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "templemossy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcobalt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_lightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockuranium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedpink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "futura": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_charcoal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedbrown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glowstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_gray2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_gray1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diorite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purpur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedorange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_magenta1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_magenta2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "redstone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_white1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_pink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_white2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chisel_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstoneyellow1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstoneyellow2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedwhite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_brown1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icepillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocksilver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_brown2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blocklead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstonered": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspane1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "energizedvoidstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stonebrick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_cyan1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_cyan2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prismarine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_yellow1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_lightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endstone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prismarine1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "prismarine2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_yellow2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavastone1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lavastone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endstone2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purpur1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purpur2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cloud": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstonered1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basalt2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedlightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstonered2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basalt1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_cyan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "offsettool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "endstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_orange2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_orange1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedlime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedbrown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedclay2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "waterstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "antiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hardenedclay1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedlightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "technicalnew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedpurple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "marblepillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diorite1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironpane": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_lime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carpet_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedlightgray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal_coke": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glassdyedlightblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedpurple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal_coke1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "basalt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_coal_coke2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "paper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glass1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstonered-scribbles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherrack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sandstoneyellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "auto_chisel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quartz": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "glasspanedyedlime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lime1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_lime2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestonemossy2": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestonemossy1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_magenta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "granite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "technical1": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bookshelf_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

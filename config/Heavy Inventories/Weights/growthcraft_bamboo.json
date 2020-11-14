@@ -1,0 +1,86 @@
+{
+  "bamboo_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_plank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_stalk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_shoot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_slab_half": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rope_knot_bamboo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bamboo_coal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

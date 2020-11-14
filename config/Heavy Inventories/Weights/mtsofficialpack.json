@@ -1,0 +1,608 @@
+{
+  "pontoon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "e500_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_attitude": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scout_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbrown": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_tachometer_amc": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebristolmercury": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brigbedbox": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trimotor_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginelycomingo360": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_tachometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_verticalspeed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "comanche_grey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scouthardtop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficcone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_turnslip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_trim": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginepw610f": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scoutvinyltop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scout_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_darkoak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginedetroitdiesel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatblack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skid": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "comanche_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellersmall2blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelmedium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_birch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scout_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_gear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brigbedflat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_altimeter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_jungle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "barrel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunm1919": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_airspeed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_spedometer_kph": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_fuelqty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatgrey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_flaps": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_spruce": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_heading": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_liftreserve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "e500_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_electric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_turncoord": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_oak": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_oilpressure": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crashbarrier": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scout_patriot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_white_orange": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_enginetemp_c": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brigbedlogs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_electric": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "engineamci4": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_enginetemp_f": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pzlp11": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trimotor_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "comanche_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_spedometer_blk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mc172_acacia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_fuelflow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_tachometer_det": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nuts": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_fuelqty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rods": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_oilpressure_p": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bullet762": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brigbedstake": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scout_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatwhite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheellarge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trimotor_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_oilpressure_b": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "e500_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vulcanair_dark_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_aircraft_enginetemp": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatpink": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelsmall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trimotor_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrument_car_spedometer_mph": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerlarge2blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "e500_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellersmall3blade": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "comanche_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "telephonebooth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "firetruck": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gmcbrig_black": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

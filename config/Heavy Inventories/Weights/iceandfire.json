@@ -1,0 +1,2054 @@
+{
+  "sea_serpent_scales_deepblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creative_dragon_meal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_red_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amphithere_feather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_troll_leather_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapphire_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_blue_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_gray_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_stinger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_grass_path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_troll_leather_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "weezer_blue_album": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_teal_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_blue_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_sapphire_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_leather_forest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_staff": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_bone_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_bronze_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_metal_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_stew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_resin_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stymphalian_bird_dagger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_blue_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_bronze_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapphire_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_green_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_white_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "lectern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_horn_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_red_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "egginice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_red_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forest_troll_leather_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_dragon_flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_red_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyclops_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_resin_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gorgon_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rotten_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_dragonsteel_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_tusk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_purple_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mountain_troll_leather_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_purple_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_pixie": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_deepblue_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_sapphire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_blue_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_white_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_sword_venom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_green_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippogryph_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixie_dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_bronze_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_fire_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "siren_tear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_blue_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_hippogryph_armor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bestiary": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixie_house": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain_sticky": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_yellow_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_horn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_hippogryph_armor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain_link": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_bone_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_fire_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_swarm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_teal_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_horn_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_green_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverpile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.column_forest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_grass_path": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cockatrice_eye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixie_wings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seaserpent_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_sapphire_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_metal_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shiny_scales": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippogryph_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_green_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_red_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_teal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_fire_input": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_red_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_gravel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_lily": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amphithere_macuahuitl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "siren_flute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_bow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mountain_troll_leather_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_meal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_resin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyclops_eye": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_blue_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_green_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_sword_fire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "earplugs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_gray_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_bronze_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goldpile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iceandfire.deathworm_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.column_frost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_dragon_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_yellow_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_dirt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_dragon_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_fang": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_white_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_purple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.trunk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_chitin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_purple_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_sapphire_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_dragon_flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_white_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_sword_venom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_deepblue_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_chitin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jar_empty": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_ice_spikes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_resin_sticky": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_red_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_yellow_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_metal_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippogryph_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_red_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "podium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_white_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sickly_dragon_meal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pixie_wand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_debug_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_blue_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_bronze_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_sapphire_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_green_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_deepblue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_teal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_resin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_lily": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_bronze_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_bronze_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_nugget": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippocampus_slapper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mountain_troll_leather_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_swarm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fishing_spear": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_sword_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_bronze_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_gauntlet_yellow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_green_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.trunk_frost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_gravel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_dragonsteel_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_yellow_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_green_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forest_troll_leather_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forest_troll_leather_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_teal_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_ice_core": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_fire_core_disabled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ambrosia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frozen_splinters": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_ice_core_disabled": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippogryph_talon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_bronze": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amphithere_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_leather_mountain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_deepblue_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stymphalian_feather_bundle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_red_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_troll_leather_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_ice_input": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_green": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_weapon.column": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_biolight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "forest_troll_leather_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_resin_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_ice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hippocampus_fin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_gauntlet_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "witherbone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_dragon_blood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonarmor_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_sapphire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_metal_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stymphalian_arrow": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_teal_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_dragon_heart": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_blue_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_deepblue_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scale_block_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_tounge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonforge_ice_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_red_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_sapphire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_biolight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_chitin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chared_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_resin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fire_stew": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_silver_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonbone_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blindfold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "desert_myrmex_cocoon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonegg_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "frost_troll_leather_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amphithere_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_red_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_white_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jungle_myrmex_cocoon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_gray_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragon_flute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_hippogryph_armor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscale_blue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_white_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sapphire_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wither_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cockatrice_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonscales_gray": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sea_serpent_scales_red": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_jungle_resin_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mountain_troll_leather_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "myrmex_desert_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_white_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cockatrice_scepter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_trident": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "manuscript": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deathworm_gauntlet_white": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stymphalian_bird_feather": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_fire_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_red_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "armor_gray_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silver_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tide_purple_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dragonsteel_ice_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stymphalian_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "troll_leather_frost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

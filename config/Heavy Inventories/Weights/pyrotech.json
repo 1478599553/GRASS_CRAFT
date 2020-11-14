@@ -1,0 +1,1088 @@
+{
+  "crude_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bellows": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_and_tinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bow_drill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dense_coal_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_uranium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brick_oven": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clay_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pile_ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_obsidian_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "egg_roasted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faucet_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pile_slag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mulch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bag_durable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "beetroot_roasted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_bellows": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kiln_pit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compacting_bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_oven": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_iridium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tinder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_crucible": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worktable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_iron_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "log_pile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coal_coke_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "planks_tarred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stash_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_compacting_bin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_tarred": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chopping_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "igniter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brick_kiln": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drying_rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "refractory_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anvil_granite": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_mithril": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "faucet_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crate_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "burned_food": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_rack": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_drain": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wood_tar_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_collector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_flint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "farmland_mulched": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid.wood_tar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pit_ash_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloomery": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bag_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anvil_iron_plated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_bone_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carrot_roasted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom_red_roasted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid.coal_tar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_mithril": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dense_nether_coal_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "torch_fiber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pile_wood_chips": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "refractory_brick_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bloom": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "limestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_uranium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_diamond_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crude_fishing_rod": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "campfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "active_pile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_mulch_spreader": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_iridium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid.liquid_clay": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bucket_clay_unfired": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "soaking_pot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "matchstick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_kiln": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shelf": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crude_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crude_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mushroom_brown_roasted": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_hammer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "apple_baked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "unfired_clay_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brick_crucible": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "book": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_bricks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brick_sawmill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cobblestone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_stone_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_flint_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_shears": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "flint_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charcoal_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wither_forge": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "living_tar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crude_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shelf_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_diamond": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worktable_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "refractory_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cog_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mechanical_hopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crude_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rock_grass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sawmill_blade_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tongs_gold_full": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_slag_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_platinum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_sawmill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "generated_pile_slag_tin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

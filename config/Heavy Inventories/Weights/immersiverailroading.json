@@ -1,0 +1,122 @@
+{
+  "item_rail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_cast_rail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_switch_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_rail_preview": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_augment": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_rail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_rolling_stock_component": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_conductor_whistle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_hook": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_rail_part": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_rolling_stock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_paint_brush": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "block_rail_gag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_golden_spike": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_radio_control_card": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_large_wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "item_track_exchanger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

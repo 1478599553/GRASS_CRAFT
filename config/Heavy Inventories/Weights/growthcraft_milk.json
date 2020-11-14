@@ -1,0 +1,344 @@
+{
+  "fluid_butter_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "yogurt": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_condensed_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_milk_curds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stomach": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_skim_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_whey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_parmesan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_cream": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_waxed_slice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kumisbottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_gorgonzola": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_vat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thistle_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_aged_slice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pancheon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_simple_slice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_potent_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_appenzeller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_ricotta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_rennet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_rennet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_milk_curds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curds_waxed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "knife": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "starter_culture": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_cream": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cream": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curds_aged": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_skim_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_fermented": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_emmentaler": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_cheddar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_monterey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thistle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "churn": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_waxed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "curds_simple": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_press": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_cloth": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cheese_aged": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "butter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_asiago": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_provolone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_kumisbooze_kumis_potent_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_butter_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_condensed_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_casu_marzu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bottlefluid_whey": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_cheese_gouda": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_milk": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "churn_plunger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

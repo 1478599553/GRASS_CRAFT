@@ -1,0 +1,98 @@
+{
+  "ricepaddy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sakebottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cultivator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_potent_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ricecrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_mash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_potent_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_fermented": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rice_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rice_ball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_sakebooze_sake_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

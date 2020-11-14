@@ -1,0 +1,2564 @@
+{
+  "palm_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stone_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalograptus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tempskya": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quagga_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplodocus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "donkey_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplocaulus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coelacanth_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrannosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kelenken_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triceratops_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplodocus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edaphosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stone_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quagga_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "citipati_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalodon_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coelacanth_fish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parrot_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megaloceros_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coelacanth_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plesiosaur_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brachiosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mosasaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sturgeon_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dryosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phorusrhacos_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platybelodon_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_stick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mosasaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smilodon_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ceratosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tardrop": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meganeura_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chicken_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nautilus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ankylosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalodon_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anubite_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dillhoffia_flower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pterosaur_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dilophosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quagga_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalograptus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cultivate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalograptus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalania_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "llama_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallimimus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplocaulus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_foot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "llama_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallimimus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_sapling_palae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anu_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arthropleura_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triceratops_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liopleurodon_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parasaurolophus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mammoth_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magic_conch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "relic_scrap": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shell": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bennettitales_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "citipati_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smilodon_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pachycephalosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ankylosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stegosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplocaulus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meganeura_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodo_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toyball": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "foozia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kelenken_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vase_volute": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "henodus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liopleurodon_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iced_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stone_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrannosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dryosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_chest": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deinonychus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sjl": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phorusrhacos_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "feeder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "henodus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stegosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pachycephalosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vase_kylix": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalograptus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "osmunda": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edaphosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "confuciusornis_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coelacanth_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "velociraptor_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dryosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worktable_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wooden_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "titanis_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "worktable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_ribcage": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pinkerton": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_seed_fern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bio_goo": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "allosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gastornis_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cow_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_sapling_calamites": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platybelodon_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parrot_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brachiosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crassigyrinus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sturgeon_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pachycephalosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "therizinosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "welwitschia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "allosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiktaalik_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ornitholestes_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cephalotaxus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fake_obsidian": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_chicken_soup": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "anu_statue": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pig_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compsognathus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pachycephalosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_hoe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalania_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elasmotherium_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiktaalik_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crataegus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_bones": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarcosuchus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arthropleura_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liopleurodon_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kelenken_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parasaurolophus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dilophosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mammoth_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_clock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "citipati_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smilodon_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mammoth_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "titanis_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_sapling_sigillaria": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "liopleurodon_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "duisbergia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polarbear_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triceratops_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kelenken_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parasaurolophus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "analyzer_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icthyosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megaloceros_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deinonychus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood_pillar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ependra": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_discovering": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "feet_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ceratosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phorusrhacos_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meganeura_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplocaulus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dinopedia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_pickaxe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossilseed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_tablet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dilophosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ornitholestes_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "licopodiophyta": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalodon_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horsetail_small": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "strong_glass": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plesiosaur_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sturgeon_fish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megaloceros_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crassigyrinus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edaphosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodo_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dense_sand": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gastornis_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gastornis_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crassigyrinus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "therizinosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slimetrail": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "figurine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bennettitales_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mammoth_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarcosuchus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "citipati_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "therizinosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iced_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "henodus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_skull": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "confuciusornis_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "quagga_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "confuciusornis_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodo_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cyathea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mutant_plant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalania_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "velociraptor_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodo_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fern_seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "amber_ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_brick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seed": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "therizinosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiktaalik_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platybelodon_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icthyosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiktaalik_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ankylosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil_sapling_cordaites": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "analyzer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gastornis_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "florissantia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "obsidian_spikes": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ornitholestes_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gastornis_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_rock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rabbit_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elasmotherium_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polarbear_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plesiosaur_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplodocus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_planks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arthropleura_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dictyophyllum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "arthropleura_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sturgeon_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ornitholestes_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_shovel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "time_machine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cultivate_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "allosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icthyosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phorusrhacos_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_leg_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_ash": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alligator_gar_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_unique_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "kelenken_egg_cultivated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sifter_active": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chicken_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_sapling": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compsognathus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "chicken_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "icthyosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalodon_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pterosaur_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "titanis_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "titanis_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dominican_amber": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "scarab_axe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_door_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toy_scratching_post": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "confuciusornis_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "raw_chicken_soup": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ceratosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarcosuchus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plesiosaur_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar_fossil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_sword": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_arm_bone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dilophosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sagenopteris": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bone_vertebrae": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "donkey_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "edaphosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "parasaurolophus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "biofossil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dodo_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallimimus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "henodus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_anu": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "permafrost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "velociraptor_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_planks_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stegosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "volcanic_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "zamites": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "allosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "skull_lantern": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deinonychus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "phorusrhacos_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "home_portal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pig_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cooked_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horse_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diplodocus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood_plate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_planks": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sifter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "record_scarab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compsognathus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "plant_fossil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "titanis_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stunted_essence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nautilus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ankylosaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dipteris": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pterosaur_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tooth_dagger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elasmotherium_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crassigyrinus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrannosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "bubble_blower": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarcophagus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "drum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_stone_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sheep_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "whip": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_fence_gate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megalania_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dryosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "toy_tethered_log": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_planks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pottery_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vase_amphora": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gallimimus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_planks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "broken_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mosasaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_leaves": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alligator_gar_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarcosuchus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "meganeura_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fern_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tar": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "spinosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "mosasaurus_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "compsognathus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ceratosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fossil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "calamites_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "megaloceros_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "horsetail_large": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "platybelodon_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aquatic_scarab_gem": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cordaites_planks_slab_double": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vaccinium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "confuciusornis_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rabbit_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sigillaria_door": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "triceratops_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sarracenia": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "failuresaurus_flesh": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alligator_gar_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ancient_wood_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cow_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nautilus_fish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brachiosaurus_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "elasmotherium_dna": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "deinonychus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pterosaur_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "alligator_gar_fish": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tyrannosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "shin_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stegosaurus_egg": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "velociraptor_meat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "brachiosaurus_cooked": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_javelin": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "smilodon_syringe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "palm_trapdoor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

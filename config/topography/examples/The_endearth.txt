@@ -1,0 +1,49 @@
+setSingleBiome("minecraft:mutated_ice_flats")
+//设置整个世界以mutated_ice_flats（冰刺平原）生物群系生成。
+//Adds a basic overworld terrain generator. Handles base block/fluid generator and biome block replacement. It uses multithreading for its noise generators, so it's slightly faster than vanilla.
+//添加基本的世界地形生成器。用来处理基础方块/流体生成器和生物群落方块的替换。它会使用多线程处理其噪声生成器，因此这比原版的生成速度要快一些。
+overworld = new OverworldGenerator()
+//定义世界地形生成器overworld
+addGenerator(overworld)
+//调用世界地形生成器overworld
+//Adds the vanilla caves.
+//用原版洞穴生成器添加洞穴。
+caves = new VanillaCaveGenerator()
+addGenerator(caves)
+//Adds the vanilla ravines.
+//用原版沟壑生成器添加沟壑。
+ravines = new VanillaRavineGenerator()
+addGenerator(ravines)
+//Adds water lakes. Blacklisted in deserts and desert hills as per vanilla.
+//用湖生成器添加淡水湖。根据原版将沙漠和沙漠山丘群系列入湖生成器的黑名单。
+waterLake = new VanillaLakeGenerator(<minecraft:water>)
+//定义湖生成器waterLake使用原版湖生成器，填充物为原版水。
+waterLake.blacklistBiome(["minecraft:desert", "minecraft:desert_hills"])
+//定义湖生成器waterLake不会在某种生物群系生成。
+addGenerator(waterLake)
+//分层生成器，和原版超平坦自定义有些类似。
+layers = new LayerGenerator()
+layers.addLayer(0~0,<minecraft:bedrock>)
+//定义0层填充物为原版基岩。
+layers.addLayer(1~4,<minecraft:ice>)
+layers.addLayer(5~14, <minecraft:packed_ice>)
+layers.addLayer(15~35, <quark:biome_cobblestone:1>)
+layers.addLayer(36~45, <minecraft:snow>)
+layers.addLayer(46~48, <minecraft:obsidian>)
+layers.addLayer(49~51, <minecraft:ice>)
+addGenerator(layers)
+//Generates animals.
+//用原版动物生成器添加动物。
+animals = new VanillaAnimalGenerator()
+addGenerator(animals)
+//Generates snow and freezes ice in cold areas.
+//用冰雪生成器在寒冷地区生成冰雪。
+ice = new IceAndSnowGenerator()
+addGenerator(ice)
+//Adds vanilla decorations. This includes trees, ores, etc.
+//用原版装饰物生成器添加装饰物。这包括植物和矿物等。
+//decoration = new VanillaDecorationGenerator()
+//addGenerator(decoration)
+//原本的装饰物生成器脚本，注释化以禁止用原版规则生成植物和矿物。
+setSpawnStructure("empty",15)
+//设置出生点建筑结构为“empty”（即前文图中的地底冰窟，之后会对建筑结构部分进行简述），结构生成高度在Y轴15格高。

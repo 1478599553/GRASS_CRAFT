@@ -1,0 +1,14 @@
+{
+  "tiny_coal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tiny_charcoal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

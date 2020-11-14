@@ -1,0 +1,86 @@
+{
+  "fluid_lubricant": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_device": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_gasoline": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "stone_decoration": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_diesel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "schematic": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_crude_oil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "upgrades": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_multiblock": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dummy": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_napalm": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "material": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "speedboat": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "oil_can": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

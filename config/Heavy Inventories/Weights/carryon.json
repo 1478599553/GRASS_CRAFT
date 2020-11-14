@@ -1,0 +1,14 @@
+{
+  "tile_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "entity_item": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

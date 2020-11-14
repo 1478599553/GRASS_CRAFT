@@ -1,0 +1,155 @@
+{
+  "__comments": [
+    "WARNING: All changes should be made to the file with the name Custom",
+    "in the title. Changes made to the Generated file will be overwritten.",
+    "",
+    "This file defines ore compatibility.",
+    "",
+    "Slag content will be generated for each oredict entry.",
+    "",
+    "The first valid key in each langKey list will be chosen; reorder keys",
+    "to change which key is selected.",
+    "",
+    "The first valid nugget in each output list will be chosen; reorder nuggets",
+    "to change which nugget is selected.",
+    "",
+    "Slag color is a hex color code without the #",
+    "",
+    "Lang keys are in the format: (domain):(key)",
+    "",
+    "Output item strings are in the format: (domain):(path):(meta)"
+  ],
+  "oredict": {
+    "oreAluminum": {
+      "slagColor": "e2e2e3",
+      "langKey": [
+        "geolosys:geolosys.cluster.aluminum",
+        "immersiveengineering:tile.immersiveengineering.ore.aluminum",
+        "thermalfoundation:tile.thermalfoundation.ore.aluminum"
+      ],
+      "output": [
+        "immersiveengineering:metal:21",
+        "thermalfoundation:material:196"
+      ]
+    },
+    "oreCopper": {
+      "slagColor": "ffaa1c",
+      "langKey": [
+        "geolosys:geolosys.cluster.copper",
+        "immersiveengineering:tile.immersiveengineering.ore.copper",
+        "thermalfoundation:tile.thermalfoundation.ore.copper"
+      ],
+      "output": [
+        "immersiveengineering:metal:20",
+        "thermalfoundation:material:192"
+      ]
+    },
+    "oreGold": {
+      "slagColor": "fcee4b",
+      "langKey": [
+        "geolosys:geolosys.cluster.gold",
+        "minecraft:tile.oreGold"
+      ],
+      "output": [
+        "minecraft:gold_nugget:0"
+      ]
+    },
+    "oreIridium": {
+      "slagColor": "d5d4e7",
+      "langKey": [
+        "thermalfoundation:tile.thermalfoundation.ore.iridium"
+      ],
+      "output": [
+        "thermalfoundation:material:199"
+      ]
+    },
+    "oreIron": {
+      "slagColor": "d8af93",
+      "langKey": [
+        "geolosys:geolosys.cluster.iron",
+        "minecraft:tile.oreIron"
+      ],
+      "output": [
+        "immersiveengineering:metal:29",
+        "minecraft:iron_nugget:0"
+      ]
+    },
+    "oreLead": {
+      "slagColor": "95afee",
+      "langKey": [
+        "geolosys:geolosys.cluster.lead",
+        "immersiveengineering:tile.immersiveengineering.ore.lead",
+        "thermalfoundation:tile.thermalfoundation.ore.lead"
+      ],
+      "output": [
+        "immersiveengineering:metal:22",
+        "thermalfoundation:material:195"
+      ]
+    },
+    "oreMithril": {
+      "slagColor": "9cf9ff",
+      "langKey": [
+        "thermalfoundation:tile.thermalfoundation.ore.mithril"
+      ],
+      "output": [
+        "thermalfoundation:material:200"
+      ]
+    },
+    "oreNickel": {
+      "slagColor": "e4e5d8",
+      "langKey": [
+        "geolosys:geolosys.cluster.nickel",
+        "immersiveengineering:tile.immersiveengineering.ore.nickel",
+        "thermalfoundation:tile.thermalfoundation.ore.nickel"
+      ],
+      "output": [
+        "immersiveengineering:metal:24",
+        "thermalfoundation:material:197"
+      ]
+    },
+    "orePlatinum": {
+      "slagColor": "55f3ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.platinum",
+        "thermalfoundation:tile.thermalfoundation.ore.platinum"
+      ],
+      "output": [
+        "thermalfoundation:material:198"
+      ]
+    },
+    "oreSilver": {
+      "slagColor": "e8f6fd",
+      "langKey": [
+        "geolosys:geolosys.cluster.silver",
+        "iceandfire:tile.iceandfire.silverOre",
+        "immersiveengineering:tile.immersiveengineering.ore.silver",
+        "thermalfoundation:tile.thermalfoundation.ore.silver"
+      ],
+      "output": [
+        "iceandfire:silver_nugget:0",
+        "immersiveengineering:metal:23",
+        "thermalfoundation:material:194"
+      ]
+    },
+    "oreTin": {
+      "slagColor": "c3e9ff",
+      "langKey": [
+        "geolosys:geolosys.cluster.tin",
+        "thermalfoundation:tile.thermalfoundation.ore.tin"
+      ],
+      "output": [
+        "thermalfoundation:material:193"
+      ]
+    },
+    "oreUranium": {
+      "slagColor": "5c734b",
+      "langKey": [
+        "geolosys:geolosys.cluster.uranium",
+        "immersiveengineering:tile.immersiveengineering.ore.uranium"
+      ],
+      "output": [
+        "immersiveengineering:metal:25"
+      ]
+    }
+  }
+}

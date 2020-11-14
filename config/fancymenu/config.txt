@@ -1,0 +1,47 @@
+##[general]
+
+[A minecraft restart is required after changing this value.]
+B:enablehotkeys = 'true';
+B:playmenumusic = 'true';
+
+
+##[customization]
+
+B:legacybuttonids = 'false';
+B:showcustomizationbuttons = 'true';
+[Maximizes mod compatibility. Disables background customization support for scrollable menu screens. Restart is needed after changing this value.]
+B:softmode = 'false';
+
+
+##[mainmenu]
+
+B:hidelogo = 'false';
+B:showmainmenufooter = 'false';
+B:hiderealmsnotifications = 'false';
+S:copyrightposition = 'bottom-right';
+B:hidebranding = 'true';
+B:hideforgenotifications = 'false';
+
+
+##[mainmenu_splash]
+
+I:splashoffsetx = '0';
+I:splashoffsety = '0';
+I:splashrotation = '-20';
+B:hidesplashtext = 'false';
+
+
+##[loading]
+
+B:allowgameintroskip = 'true';
+B:showanimationloadingstatus = 'true';
+S:gameintroanimation = '';
+S:customgameintroskiptext = '';
+
+
+##[minecraftwindow]
+
+[A minecraft restart is required after changing this value.]
+S:customwindowtitle = '';
+[A minecraft restart is required after changing this value.]
+B:customwindowicon = 'false';

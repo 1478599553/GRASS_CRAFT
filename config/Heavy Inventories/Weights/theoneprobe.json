@@ -1,0 +1,44 @@
+{
+  "gold_helmet_probe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "creativeprobe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "probenote": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_helmet_probe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "probe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_helmet_probe": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "probe_goggles": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

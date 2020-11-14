@@ -1,0 +1,104 @@
+{
+  "polluted_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_vacuum_tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_vacuum_tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aerometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_respirator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_vacuum_tube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_vacuum_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "carbon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_vacuum_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sulfur": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_vacuum_bag": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_respirator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_respirator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "diamond_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "dust": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gold_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

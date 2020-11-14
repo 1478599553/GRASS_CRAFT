@@ -1,0 +1,62 @@
+{
+  "pro_pick": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "cluster": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coal_coke": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_sample_vanilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "field_manual": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_sample": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "coal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ingot": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ore_vanilla": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

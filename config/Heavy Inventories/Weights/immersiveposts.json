@@ -1,0 +1,158 @@
+{
+  "metal_rods": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "nickelpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_constantan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_electrum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "aluminiumpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "constantanpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "netherpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leadedconcretepost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "woodpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "postbase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concretepost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "electrumpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_silver": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "copperpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_nickel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "uraniumpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ironpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "leadpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "goldpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "silverpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steelpost": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_uranium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_lead": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fence_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

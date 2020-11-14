@@ -1,0 +1,287 @@
+---- Minecraft Crash Report ----
+// Who set us up the TNT?
+
+Time: 2020-04-23 14:31:52 CST
+Description: Initializing game
+
+net.minecraftforge.fml.common.LoaderException: java.lang.RuntimeException: Error syncing field 'caveBiomeSize' of class 'com.yungnickyoung.minecraft.bettercaves.config.ConfigCaveGen'!
+    at net.minecraftforge.common.config.ConfigManager.sync(ConfigManager.java:190)
+    at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:613)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+    at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:232)
+    at net.minecraft.client.Minecraft.init(Minecraft.java:467)
+    at net.minecraft.client.Minecraft.run(Minecraft.java:3931)
+    at net.minecraft.client.main.Main.main(SourceFile:123)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+    at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.RuntimeException: Error syncing field 'caveBiomeSize' of class 'com.yungnickyoung.minecraft.bettercaves.config.ConfigCaveGen'!
+    at net.minecraftforge.common.config.ConfigManager.sync(ConfigManager.java:305)
+    at net.minecraftforge.common.config.ConfigManager.sync(ConfigManager.java:328)
+    at net.minecraftforge.common.config.ConfigManager.sync(ConfigManager.java:182)
+    ... 37 more
+Caused by: java.lang.IllegalArgumentException: No enum constant com.yungnickyoung.minecraft.bettercaves.config.ConfigCaveGen.CaveBiomeSize.large
+    at java.lang.Enum.valueOf(Enum.java:238)
+    at net.minecraftforge.common.config.FieldWrapper$EnumWrapper.setValue(FieldWrapper.java:249)
+    at net.minecraftforge.common.config.ConfigManager.sync(ConfigManager.java:267)
+    ... 39 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 10 (amd64) version 10.0
+  Java Version: 1.8.0_212, Eclipse OpenJ9
+  Java VM Version: Eclipse OpenJ9 VM (JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190521_368 (JIT enabled, AOT enabled)
+                   OpenJ9   - 4b1df46fe
+                   OMR      - b56045d2
+                   JCL      - a8c217d402 based on jdk8u212-b04), Eclipse OpenJ9
+  Memory: 80356080 bytes (76 MB) / 420937728 bytes (401 MB) up to 8589934592 bytes (8192 MB)
+  JVM Flags: 14 total; -Xoptionsfile=C:\Program Files\AdoptOpenJDK\jre-8.0.212.04-openj9\bin\compressedrefs\options.default -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple -Xjcl:jclse29 -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 Powered by Forge 14.23.5.2847 Optifine OptiFine_1.12.2_HD_U_F5 90 mods loaded, 90 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                   | Version           | Source                                            | Signature |
+       |:----- |:-------------------- |:----------------- |:------------------------------------------------- |:--------- |
+       | LC    | minecraft            | 1.12.2            | minecraft.jar                                     | None      |
+       | LC    | mcp                  | 9.42              | minecraft.jar                                     | None      |
+       | LC    | FML                  | 8.0.99.99         | forge-1.12.2-14.23.5.2847.jar                     | None      |
+       | LC    | forge                | 14.23.5.2847      | forge-1.12.2-14.23.5.2847.jar                     | None      |
+       | LC    | creativecoredummy    | 1.0.0             | minecraft.jar                                     | None      |
+       | LC    | ivtoolkit            | 1.3.3-1.12        | minecraft.jar                                     | None      |
+       | LC    | jecharacters         | 1.12.0-3.4.7      | 【拼音搜索】JustEnoughCharacters-1.12.0-3.4.7.jar       | None      |
+       | LC    | itemphysic           | 1.4.0             | minecraft.jar                                     | None      |
+       | LC    | bnbgamingcore        | 0.11.0            | minecraft.jar                                     | None      |
+       | LC    | forgeendertech       | 1.12.2-4.5.1.0    | 【前置】ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar  | None      |
+       | LC    | adpother             | 1.12.2-1.2.0.0    | [环境污染]AdPother-1.12.2-1.2.0.0-build.0454.jar      | None      |
+       | LC    | advancedmortars      | 1.12.2-1.7.1      | advancedmortars-1.12.2-1.7.1.jar                  | None      |
+       | LC    | antiqueatlas         | 4.6.3             | antiqueatlas-1.12.2-4.6.3.jar                     | None      |
+       | LC    | antiqueatlasoverlay  | 1.2               | antiqueatlas-1.12.2-4.6.3.jar                     | None      |
+       | LE    | bettercaves          | 1.12.2-1.0.1.1    | bettercaves-1.12.2-1.0.1.1.jar                    | None      |
+       | L     | redstoneflux         | 2.1.1             | 【前置】RedstoneFlux-1.12-2.1.1.1-universal.jar       | None      |
+       | L     | cofhcore             | 4.6.6             | CoFHCore-1.12.2-4.6.6.1-universal.jar             | None      |
+       | L     | cttinycoal           | 1.12.2-1.0.2      | cttinycoal-1.12.2-1.0.2.jar                       | None      |
+       | L     | enchcontrol          | 1.1.5             | enchcontrol-1.12.2-1.1.5-0.jar                    | None      |
+       | L     | theoneprobe          | 1.4.28            | 【信息检测器】theoneprobe-1.12-1.4.28.jar                | None      |
+       | L     | jei                  | 4.15.0.291        | 【物品管理器】jei_1.12.2-4.15.0.291.jar                  | None      |
+       | L     | immersiveengineering | 0.12-92           | ImmersiveEngineering-0.12-92 (1).jar              | None      |
+       | L     | geolosys             | 3.0.10            | Geolosys-1.12.2-3.0.10.jar                        | None      |
+       | L     | mts                  | 17.4.2            | Immersive+Vehicles-1.12.2-17.4.2.jar              | None      |
+       | L     | immersivepetroleum   | 1.1.9             | immersivepetroleum-1.12.2-1.1.9.jar               | None      |
+       | L     | trackapi             | 1.2               | TrackAPI-1.2.jar                                  | None      |
+       | L     | soundphysics         | 1.0.8             | 【声效物理】Sound-Physics-1.12.2.jar                    | None      |
+       | L     | immersiverailroading | 1.7.3             | ImmersiveRailroading-1.7.3_1.12.2.jar             | None      |
+       | L     | universalmodcore     | 1.0.0             | ImmersiveRailroading-1.7.3_1.12.2.jar             | None      |
+       | L     | immersivetech        | 1.7.59            | MCTImmersiveTechnology-1.12.2-1.7.59.jar          | None      |
+       | L     | crafttweaker         | 4.1.20            | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None      |
+       | L     | modularmachinery     | 1.11.1            | modularmachinery-1.12.2-1.11.1.jar                | None      |
+       | L     | movingelevators      | 1.2.7             | movingelevators-1.2.7-mc1.12.jar                  | None      |
+       | L     | mtsofficialpack      | 15.0.0            | MTS_Official_Pack_V15.jar                         | None      |
+       | L     | nrg                  | 1.2.1             | nrg-MC1.12.2-0.1.0.5ee6938.jar                    | None      |
+       | L     | paraglider           | 1.0.1.5           | Paraglider-1.12.2-1.0.1.5.jar                     | None      |
+       | L     | ptrmodellib          | 1.0.4             | PTRLib-1.0.4.jar                                  | None      |
+       | L     | athenaeum            | 1.12.2-1.17.4     | 【雅典娜前置】athenaeum-1.12.2-1.17.4.jar                | None      |
+       | L     | dropt                | 1.12.2-1.17.0     | 【前置兼魔改】dropt-1.12.2-1.17.0.jar                    | None      |
+       | L     | patchouli            | 1.0-20            | 【手册API】Patchouli-1.0-20.jar                       | None      |
+       | L     | pyrotech             | 1.12.2-1.4.26     | pyrotech-1.12.2-1.4.26.jar                        | None      |
+       | L     | realistictorches     | 2.1.1             | RealisticTorches-1.12.2-2.1.1.jar                 | None      |
+       | L     | roost                | 2.0.10            | roost-1.12.2-2.0.10.jar                           | None      |
+       | L     | spartanshields       | 1.5.4             | SpartanShields-1.12.2-1.5.4.jar                   | None      |
+       | L     | traverse             | 1.6.0             | Traverse-1.12.2-1.6.0-69 (1).jar                  | None      |
+       | L     | toughasnails         | 3.1.0.139         | 【意志坚定】ToughAsNails-1.12.2-3.1.0.139-universal.jar | None      |
+       | L     | vanillafoodpantry    | 4.3.1             | vanillafoodpantry-mc1.12.2-4.3.1.jar              | None      |
+       | L     | watercan             | 1.12.2-1.1.3      | watercan-1.12.2-1.1.3.jar                         | None      |
+       | L     | badmobs              | 1.1.28            | 【ban生物】BadMobs-1.12.2-1.1.28.jar                  | None      |
+       | L     | betterquesting       | 3.5.323           | 【任务书】BetterQuesting-3.5.323.jar                   | None      |
+       | L     | bq_standard          | 3.4.173           | 【任务书后置】StandardExpansion-3.4.173.jar              | None      |
+       | L     | surge                | 2.0.77            | 【优化】Surge-1.12.2-2.0.77.jar                       | None      |
+       | L     | vanillafix           | 1.0.10-SNAPSHOT   | 【优化】VanillaFix-1.0.10-99.jar                      | None      |
+       | L     | coroutil             | 1.12.1-1.2.37     | 【前置】coroutil-1.12.1-1.2.37.jar                    | None      |
+       | L     | zombieawareness      | 1.12.1-1.11.16    | 【僵尸意识】zombieawareness-1.12.1-1.11.16.jar          | None      |
+       | L     | globalgamerules      | 2.2               | 【全局gamerule】GlobalGameRules-1.12.2-2.2.7.jar      | None      |
+       | L     | llibrary             | 1.7.19            | 【前置】llibrary-1.7.19-1.12.2.jar                    | None      |
+       | L     | iceandfire           | 1.8.4             | 【冰与火】iceandfire-1.8.4.jar                         | None      |
+       | L     | ctm                  | MC1.12.2-1.0.2.31 | 【前置】CTM-MC1.12.2-1.0.2.31.jar                     | None      |
+       | L     | chisel               | MC1.12.2-1.0.2.45 | 【凿子】Chisel-MC1.12.2-1.0.2.45.jar                  | None      |
+       | L     | quark                | r1.6-178          | 【夸克】Quark-r1.6-178.jar                            | None      |
+       | L     | autoreglib           | 1.3-32            | 【前置】AutoRegLib-1.3-32.jar                         | None      |
+       | L     | bnbgaminglib         | 2.17.6            | 【前置】BNBGamingLib-1.12.2-2.17.6.jar                | None      |
+       | L     | extendedrenderer     | v1.0              | 【前置】coroutil-1.12.1-1.2.37.jar                    | None      |
+       | L     | configmod            | v1.0              | 【前置】coroutil-1.12.1-1.2.37.jar                    | None      |
+       | L     | creativecore         | 1.10.0            | 【前置】CreativeCore_v1.10.10_mc1.12.2.jar            | None      |
+       | L     | forgelin             | 1.8.4             | 【前置】Forgelin-1.8.4.jar                            | None      |
+       | L     | ichunutil            | 7.2.2             | 【前置】iChunUtil-1.12.2-7.2.2.jar                    | None      |
+       | L     | librarianlib         | 4.20              | 【前置】librarianlib-1.12.2-4.20-release.jar          | None      |
+       | L     | mtlib                | 3.0.6             | 【前置】MTLib-3.0.6.jar                               | None      |
+       | L     | topography           | 1.10.1            | 【地形生成】Topography-1.12.2-1.10.1.jar                | None      |
+       | L     | monsterswarm         | 2.0.1             | 【怪物侵略】MonsterSwarm-2.0.1.jar                      | None      |
+       | L     | slurp                | 0.3               | 【意志坚定喝水】slurp-1.12-0.3.jar                        | None      |
+       | L     | corpse               | 1.12.2-1.0.6      | 【死亡墓碑】corpse-1.12.2-1.0.6.jar                     | None      |
+       | L     | weather2             | 1.12.1-2.6.12     | 【气候】weather2-1.12.1-2.6.12.jar                    | None      |
+       | L     | rfp2                 | 1.12.2-1.3.2      | 【真实第一人称】RealFirstPerson2-1.12.2-1.3.2.jar         | None      |
+       | L     | scannable            | 1.6.3.24          | 【矿物检测】Scannable-MC1.12.2-1.6.3.24.jar             | None      |
+       | L     | backtools            | 7.0.1             | 【背上的工具】BackTools-1.12.2-7.0.1.jar                 | None      |
+       | L     | custommainmenu       | 2.0.9.1           | 【自定义主菜单】CustomMainMenu-MC1.12.2-2.0.9.1.jar       | None      |
+       | L     | comforts             | 1.4.1.3           | 【舒适睡眠】comforts-1.12.2-1.4.1.3.jar                 | None      |
+       | L     | resourceloader       | 1.5.3             | 【资源加载器】ResourceLoader-MC1.12.1-1.5.3.jar          | None      |
+       | L     | reccomplex           | 1.4.8.2           | 【遗迹生成】RecurrentComplex-1.4.8.2.jar                | None      |
+       | L     | baubles              | 1.5.2             | 【饰品栏】Baubles-1.12-1.5.2.jar                       | None      |
+       | L     | hooked               | %VERSION%         | 【钩子】hooked-1.0.3.jar                              | None      |
+       | L     | recipehandler        | 0.13              | 【防止配方冲突】NoMoreRecipeConflict-0.13(1.12.2).jar     | None      |
+       | L     | tumbleweed           | 1.12-0.4.7        | 【风滚草】tumbleweed-1.12-0.4.7.jar                    | None      |
+       | L     | ctgui                | 1.0.0             | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None      |
+       | L     | crafttweakerjei      | 2.0.3             | 【魔改】CraftTweaker2-1.12-4.1.20.jar                 | None      |
+       | L     | phosphor-lighting    | 1.12.2-0.2.6      | 【优化】phosphor-1.12.2-0.2.6+build50-universal.jar   | None      |
+       | L     | librarianliblate     | 4.20              | 【前置】librarianlib-1.12.2-4.20-release.jar          | None      |
+  Loaded coremods (and transformers): Quark Plugin (【夸克】Quark-r1.6-178.jar)
+                                        vazkii.quark.base.asm.ClassTransformer
+                                      LoadingPlugin (【资源加载器】ResourceLoader-MC1.12.1-1.5.3.jar)
+                                        lumien.resourceloader.asm.ClassTransformer
+                                      PhosphorFMLLoadingPlugin (【优化】phosphor-1.12.2-0.2.6+build50-universal.jar)
+                                        
+                                      LoadingPlugin ([环境污染]AdPother-1.12.2-1.2.0.0-build.0454.jar)
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Vanilla
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$DynamicSurroundings
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Mesh
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Render
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$FurnaceDouble
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.BetterWithMods$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.CookingForBlockheads$Oven
+                                        com.endertech.minecraft.mods.adpother.transformers.DraconicEvolution$Generator
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$EmberBore
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$SteamEngine
+                                        com.endertech.minecraft.mods.adpother.transformers.EnderIO$StirlingGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.EngineersDecor$DecorFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FurnaceOverhaul$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FutureMC$AdvancedFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FloodLights$CarbonFloodlight
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$AutoRocket
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$Buggy
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveCraft$FurnaceTE
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityCokeOven
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityBlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityDieselGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$Motorboat
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$PortableGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveDiesel
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveSteam
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveTechnology$Boiler
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$CombustionChamber
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberSolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberLiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Mekanism$FuelwoodHeater
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Alloyer
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Crusher
+                                        com.endertech.minecraft.mods.adpother.transformers.Minecraft$AnimalFeeding
+                                        com.endertech.minecraft.mods.adpother.transformers.MoreFurnaces$IronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$InferiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$IntermediumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$PrudentiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SuperiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SupremiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$UltimateFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Natura$NetherrackFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.PneumaticCraft$AirCompressor
+                                        com.endertech.minecraft.mods.adpother.transformers.PrimalCore$RecipeHelper
+                                        com.endertech.minecraft.mods.adpother.transformers.Pyrotech$TileCombustion
+                                        com.endertech.minecraft.mods.adpother.transformers.RealisticTorches$BlockTorch
+                                        com.endertech.minecraft.mods.adpother.transformers.RFTools$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.StevesCarts$ModuleCoal
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronAlloyFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileSolidFuelGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersConstruct$HeatingStructure
+                                        com.endertech.minecraft.mods.adpother.transformers.SimpleGrinder$CoalGrinder
+                                        com.endertech.minecraft.mods.adpother.transformers.UltimateCarMod$Car
+                                        com.endertech.minecraft.mods.adpother.transformers.ViesCraft$AirShip
+                                        com.endertech.minecraft.mods.adpother.renders.AerometerRender
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockCaughtFire
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockUpdateTick
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockExploded
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$GetSkyColor
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$FurnaceFuelBurned
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$LavaTouchesWater
+                                      ParagliderLoadingPlugin (Paraglider-1.12.2-1.0.1.5.jar)
+                                        com.tictim.paraglider.asm.TransformerModelBiped
+                                      CoreModLoader (【声效物理】Sound-Physics-1.12.2.jar)
+                                        com.sonicether.soundphysics.CoreModInjector
+                                      ForgelinPlugin (【前置】Forgelin-1.8.4.jar)
+                                        
+                                      IELoadingPlugin (ImmersiveEngineering-core-0.12-92.jar)
+                                        blusunrize.immersiveengineering.common.asm.IEClassTransformer
+                                      iceandfire (【冰与火】iceandfire-1.8.4.jar)
+                                        com.github.alexthe666.iceandfire.patcher.IceAndFireRuntimePatcher
+                                      EC Core Plugin (enchcontrol-1.12.2-1.1.5-0.jar)
+                                        austeretony.enchcontrol.common.core.ECClassTransformer
+                                      VanillaFixLoadingPlugin (【优化】VanillaFix-1.0.10-99.jar)
+                                        
+                                      llibrary (llibrary-core-1.0.11-1.12.2.jar)
+                                        net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+                                        net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+                                      LibrarianLib Plugin (【前置】librarianlib-1.12.2-4.20-release.jar)
+                                        com.teamwizardry.librarianlib.asm.LibLibTransformer
+                                      CTMCorePlugin (【前置】CTM-MC1.12.2-1.0.2.31.jar)
+                                        team.chisel.ctm.client.asm.CTMTransformer
+                                      JechCore (【拼音搜索】JustEnoughCharacters-1.12.0-3.4.7.jar)
+                                        me.towdium.jecharacters.core.JechClassTransformer
+                                      BNBGamingCore (【前置】BNBGamingCore-1.12.2-0.11.0.jar)
+                                        com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+                                      ItemPatchingLoader (【物品物理】ItemPhysic_Full_1.4.32_mc1.12.2.jar)
+                                        com.creativemd.itemphysic.ItemTransformer
+                                      CreativePatchingLoader (【前置】CreativeCore_v1.10.10_mc1.12.2.jar)
+                                        
+                                      IvToolkit (【前置】IvToolkit-1.3.3-1.12.jar)
+                                        
+                                      CorePlugin (【前置】ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar)
+                                        
+                                      SurgeLoadingPlugin (【优化】Surge-1.12.2-2.0.77.jar)
+  GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+  Suspected Mods: Unknown
+  Launched Version: HMCL 3.2.149
+  LWJGL: 2.9.4
+  OpenGL: GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 442.19, NVIDIA Corporation
+  GL Caps: Using GL 1.3 multitexturing.
+           Using GL 1.3 texture combiners.
+           Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+           Shaders are available because OpenGL 2.1 is supported.
+           VBOs are available because OpenGL 1.5 is supported.
+  Using VBOs: Yes
+  Is Modded: Definitely; Client brand changed to 'fml,forge'
+  Type: Client (map_client.txt)
+  Resource Packs: Minecraft-Mod-Language-Modpack.zip
+  Current Language: 简体中文 (中国)
+  Profiler Position: N/A (disabled)
+  CPU: 6x Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz

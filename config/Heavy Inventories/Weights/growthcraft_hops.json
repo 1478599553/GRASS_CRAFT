@@ -1,0 +1,122 @@
+{
+  "lager": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hop_seeds": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_poisoned": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_intoxicated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_young": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_extended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_normal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_lager": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hopale": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "hops": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_potent": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_lagerbooze_hyperextended": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_young": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fluid_hopalebooze_unhopped": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

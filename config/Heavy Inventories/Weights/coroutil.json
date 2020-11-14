@@ -1,0 +1,20 @@
+{
+  "item_repairing_gel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "repairing_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blank": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

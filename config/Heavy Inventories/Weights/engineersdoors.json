@@ -1,0 +1,86 @@
+{
+  "door_treated_ornate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoor_treated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trapdoor_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_steel_reinforced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_concrete_reinforced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fencegate_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_treated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_concrete_ornate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_treated_reinforced": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fencegate_aluminium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "door_steel_ornate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fencegate_treated": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

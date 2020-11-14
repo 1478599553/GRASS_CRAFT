@@ -1,0 +1,170 @@
+{
+  "componentbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "crossingsignal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "handbook_en": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wheelbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "streetlight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "instrumentbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "seatbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "key": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decororienteddark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "vehiclebench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "enginebench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignal": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "polebase": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jumpercable": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jerrycan": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gunbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wrench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "custombench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "fuelpump": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsign": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "trafficsignalcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorbasicdark": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decororientedlight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "handbook_ru": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "propellerbench": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "decorbasiclight": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

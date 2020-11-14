@@ -1,0 +1,476 @@
+{
+  "treated_wood_side_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_mesh_fence": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_decor": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_concrete_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "concrete_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_defense": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_factoryarea": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "straight_pipe_valve": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_inset_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_double_t_support": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag_brick_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_broad_windowsill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_tile_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_tile_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_concrete_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_pole_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_tile": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_danger": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_waste_incinerator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_milking_machine": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_treated_wood": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_block_breaker": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag_brick_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_tree_cutter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_windowsill": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_stained_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_electrical_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_pole_support": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_sheetmetal_aluminum": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory_dropper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_rung_steps": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_exit": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "straight_pipe_valve_redstone": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_sheetmetal_gold": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_stained_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "straight_pipe_valve_redstone_analog": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_stained_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rebar_concrete_wall": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thin_steel_pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_sheetmetal_steel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_lab_furnace": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_sheetmetal_copper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "iron_floor_edge_light": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_stool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory_hopper": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "slag_brick_slab": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "clinker_brick_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_solar_panel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_mineral_smelter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_floor_grating": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "small_fluid_funnel": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thin_steel_pole_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "factory_placer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_framed_window": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "passive_fluid_accumulator": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thick_steel_pole": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_sheetmetal_iron": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "gas_concrete_stairs": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "panzerglass_block": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_crafting_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thick_steel_pole_head": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "sign_hotwire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "treated_wood_window": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "steel_table": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "metal_rung_ladder": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_rebar_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "halfslab_gas_concrete": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

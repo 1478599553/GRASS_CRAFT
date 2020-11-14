@@ -1,0 +1,68 @@
+{
+  "blockinputbus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockenergyoutputhatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockfluidoutputhatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockoutputbus": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcasing": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockenergyinputhatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockfluidinputhatch": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemmodularium": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "blockcontroller": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemblueprint": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "itemconstructtool": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

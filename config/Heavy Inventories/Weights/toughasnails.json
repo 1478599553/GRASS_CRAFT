@@ -1,0 +1,128 @@
+{
+  "fruit_juice": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelled_slime_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_helmet": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "rain_collector": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "ice_cube": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelled_slime": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "charcoal_filter": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "tan_icon": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purified_water": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelled_slime_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "canteen": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelled_slime_leggings": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "thermometer": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "temperature_coil": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "purified_water_bottle": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "magma_shard": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "campfire": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "jelled_slime_chestplate": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ],
+  "wool_boots": [
+    {
+      "offset": 0.5,
+      "weight": 0.1
+    }
+  ]
+}

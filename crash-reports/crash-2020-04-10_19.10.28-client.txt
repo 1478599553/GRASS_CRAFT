@@ -1,0 +1,262 @@
+---- Minecraft Crash Report ----
+// You're mean.
+
+Time: 2020-04-10 19:10:28 CST
+Description: Initializing game
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Custom Main Menu (custommainmenu)
+Caused by: java.lang.RuntimeException: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 151 column 5 path $.labels
+    at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:71)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+    at sun.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+    at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+    at net.minecraft.client.Minecraft.init(Minecraft.java:467)
+    at net.minecraft.client.Minecraft.run(Minecraft.java:3931)
+    at net.minecraft.client.main.Main.main(SourceFile:123)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+    at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 151 column 5 path $.labels
+    at com.google.gson.internal.Streams.parse(Streams.java:60)
+    at com.google.gson.JsonParser.parse(JsonParser.java:84)
+    at lumien.custommainmenu.configuration.ConfigurationLoader.load(ConfigurationLoader.java:92)
+    at lumien.custommainmenu.CustomMainMenu.preInit(CustomMainMenu.java:66)
+    ... 40 more
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 151 column 5 path $.labels
+    at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1559)
+    at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:513)
+    at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:414)
+    at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:738)
+    at com.google.gson.internal.bind.TypeAdapters$29.read(TypeAdapters.java:714)
+    at com.google.gson.internal.Streams.parse(Streams.java:48)
+    ... 43 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 10 (amd64) version 10.0
+  Java Version: 1.8.0_212, Eclipse OpenJ9
+  Java VM Version: Eclipse OpenJ9 VM (JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20190521_368 (JIT enabled, AOT enabled)
+                   OpenJ9   - 4b1df46fe
+                   OMR      - b56045d2
+                   JCL      - a8c217d402 based on jdk8u212-b04), Eclipse OpenJ9
+  Memory: 60167408 bytes (57 MB) / 572129280 bytes (545 MB) up to 8589934592 bytes (8192 MB)
+  JVM Flags: 14 total; -Xoptionsfile=C:\Program Files\AdoptOpenJDK\jre-8.0.212.04-openj9\bin\compressedrefs\options.default -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple -Xjcl:jclse29 -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Xmn128m -Xmx8192m -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 Powered by Forge 14.23.5.2847 Optifine OptiFine_1.12.2_HD_U_F5 64 mods loaded, 64 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                | Version           | Source                                       | Signature                                |
+       |:----- |:----------------- |:----------------- |:-------------------------------------------- |:---------------------------------------- |
+       | LCH   | minecraft         | 1.12.2            | minecraft.jar                                | None                                     |
+       | LCH   | mcp               | 9.42              | minecraft.jar                                | None                                     |
+       | LCH   | FML               | 8.0.99.99         | forge-1.12.2-14.23.5.2847.jar                | None                                     |
+       | LCH   | forge             | 14.23.5.2847      | forge-1.12.2-14.23.5.2847.jar                | None                                     |
+       | LCH   | creativecoredummy | 1.0.0             | minecraft.jar                                | None                                     |
+       | LCH   | itemphysic        | 1.4.0             | minecraft.jar                                | None                                     |
+       | LCH   | jecharacters      | 1.12.0-3.4.7      | JustEnoughCharacters-1.12.0-3.4.7.jar        | None                                     |
+       | LCH   | bnbgamingcore     | 0.11.0            | minecraft.jar                                | None                                     |
+       | LCH   | forgeendertech    | 1.12.2-4.5.1.0    | ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar | None                                     |
+       | LCH   | adpother          | 1.12.2-1.2.0.0    | AdPother-1.12.2-1.2.0.0-build.0454.jar       | None                                     |
+       | LCH   | crafttweaker      | 4.1.20            | CraftTweaker2-1.12-4.1.20.jar                | None                                     |
+       | LCH   | jei               | 4.15.0.291        | jei_1.12.2-4.15.0.291.jar                    | None                                     |
+       | LCH   | athenaeum         | 1.12.2-1.17.4     | athenaeum-1.12.2-1.17.4.jar                  | None                                     |
+       | LCH   | quark             | r1.6-178          | Quark-r1.6-178.jar                           | None                                     |
+       | LCH   | autoreglib        | 1.3-32            | AutoRegLib-1.3-32.jar                        | None                                     |
+       | LCH   | ichunutil         | 7.2.2             | iChunUtil-1.12.2-7.2.2.jar                   | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+       | LCH   | backtools         | 7.0.1             | BackTools-1.12.2-7.0.1.jar                   | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+       | LCH   | badmobs           | 1.1.28            | BadMobs-1.12.2-1.1.28.jar                    | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | base              | 3.13.0            | base-1.12.2-3.13.0.jar                       | None                                     |
+       | LCH   | betterquesting    | 3.5.323           | BetterQuesting-3.5.323.jar                   | None                                     |
+       | LCH   | blur              | 1.0.4-14          | Blur-1.0.4-14.jar                            | None                                     |
+       | LCH   | bnbgaminglib      | 2.17.6            | BNBGamingLib-1.12.2-2.17.6.jar               | None                                     |
+       | LCH   | ctm               | MC1.12.2-1.0.2.31 | CTM-MC1.12.2-1.0.2.31.jar                    | None                                     |
+       | LCH   | chisel            | MC1.12.2-1.0.2.45 | Chisel-MC1.12.2-1.0.2.45.jar                 | None                                     |
+       | LCH   | redstoneflux      | 2.1.1             | RedstoneFlux-1.12-2.1.1.1-universal.jar      | None                                     |
+       | LCH   | cofhcore          | 4.6.3             | CoFHCore-1.12.2-4.6.3.27-universal.jar       | None                                     |
+       | LCH   | cofhworld         | 1.3.1             | CoFHWorld-1.12.2-1.3.1.7-universal.jar       | 8a6abf2cb9e141b866580d369ba6548732eff25f |
+       | LCH   | toughasnails      | 3.1.0.139         | ToughAsNails-1.12.2-3.1.0.139-universal.jar  | None                                     |
+       | LCH   | comforts          | 1.4.1.3           | comforts-1.12.2-1.4.1.3.jar                  | 2484ef4d131fdc0dca0647aa21b7b944ddb935a1 |
+       | LCH   | extendedrenderer  | v1.0              | coroutil-1.12.1-1.2.37.jar                   | None                                     |
+       | LCH   | coroutil          | 1.12.1-1.2.37     | coroutil-1.12.1-1.2.37.jar                   | None                                     |
+       | LCH   | configmod         | v1.0              | coroutil-1.12.1-1.2.37.jar                   | None                                     |
+       | LCH   | corpse            | 1.12.2-1.0.6      | corpse-1.12.2-1.0.6.jar                      | None                                     |
+       | LCH   | ctgui             | 1.0.0             | CraftTweaker2-1.12-4.1.20.jar                | None                                     |
+       | LCH   | crafttweakerjei   | 2.0.3             | CraftTweaker2-1.12-4.1.20.jar                | None                                     |
+       | LCH   | creativecore      | 1.10.0            | CreativeCore_v1.10.10_mc1.12.2.jar           | None                                     |
+       | LCE   | custommainmenu    | 2.0.9.1           | CustomMainMenu-MC1.12.2-2.0.9.1.jar          | None                                     |
+       | LC    | customstuff4      | 0.5.3             | customstuff4-1.12.2-0.5.3.jar                | None                                     |
+       | LC    | dropt             | 1.12.2-1.17.0     | dropt-1.12.2-1.17.0.jar                      | None                                     |
+       | LC    | globalgamerules   | 2.2               | GlobalGameRules-1.12.2-2.2.7.jar             | None                                     |
+       | LC    | i18nmod           | 1.12.2-1.0.8      | i18nupdatemod-1.12.2-1.0.8 (1).jar           | None                                     |
+       | LC    | llibrary          | 1.7.19            | llibrary-1.7.19-1.12.2.jar                   | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+       | LC    | iceandfire        | 1.8.4             | iceandfire-1.8.4.jar                         | None                                     |
+       | LC    | itemrender        | @VERSION@         | ItemRenderDark-0.3.1.jar                     | None                                     |
+       | LC    | evo               | 1.0               | modid-1.0.jar                                | None                                     |
+       | LC    | mtlib             | 3.0.6             | MTLib-3.0.6.jar                              | None                                     |
+       | LC    | recipehandler     | 0.13              | NoMoreRecipeConflict-0.13(1.12.2).jar        | None                                     |
+       | LC    | patchouli         | 1.0-20            | Patchouli-1.0-20.jar                         | None                                     |
+       | LC    | theoneprobe       | 1.4.28            | theoneprobe-1.12-1.4.28.jar                  | None                                     |
+       | LC    | pyrotech          | 1.12.2-1.4.23     | pyrotech-1.12.2-1.4.23.jar                   | None                                     |
+       | LC    | rfp2              | 1.12.2-1.3.2      | RealFirstPerson2-1.12.2-1.3.2.jar            | None                                     |
+       | LC    | resourceloader    | 1.5.3             | ResourceLoader-MC1.12.1-1.5.3.jar            | d72e0dd57935b3e9476212aea0c0df352dd76291 |
+       | LC    | shouldersurfing   | 1.16              | ShoulderSurfing-1.12.2-1.15.1.jar            | d6261bb645f41db84c74f98e512c2bb43f188af2 |
+       | LC    | slurp             | 0.3               | slurp-1.12-0.3.jar                           | None                                     |
+       | LC    | soundphysics      | 1.0.8             | Sound-Physics-1.12.2.jar                     | None                                     |
+       | LC    | bq_standard       | 3.4.173           | StandardExpansion-3.4.173.jar                | None                                     |
+       | LC    | surge             | 2.0.77            | Surge-1.12.2-2.0.77.jar                      | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LC    | topography        | 1.10.1            | Topography-1.12.2-1.10.1.jar                 | None                                     |
+       | LC    | treetweaker       | 1.6.1             | treetweaker-1.6.1.jar                        | None                                     |
+       | LC    | tumbleweed        | 1.12-0.4.7        | tumbleweed-1.12-0.4.7.jar                    | None                                     |
+       | LC    | vanillafix        | 1.0.10-SNAPSHOT   | VanillaFix-1.0.10-99.jar                     | None                                     |
+       | LC    | weather2          | 1.12.1-2.6.12     | weather2-1.12.1-2.6.12.jar                   | None                                     |
+       | LC    | zombieawareness   | 1.12.1-1.11.16    | zombieawareness-1.12.1-1.11.16.jar           | None                                     |
+       | LC    | phosphor-lighting | 1.12.2-0.2.6      | phosphor-1.12.2-0.2.6+build50-universal.jar  | f0387d288626cc2d937daa504e74af570c52a2f1 |
+  Loaded coremods (and transformers): CorePlugin (ForgeEndertech-1.12.2-4.5.1.0-build.0454.jar)
+                                        
+                                      ItemPatchingLoader (ItemPhysic_Full_1.4.32_mc1.12.2.jar)
+                                        com.creativemd.itemphysic.ItemTransformer
+                                      ShoulderPlugin (ShoulderSurfing-1.12.2-1.15.1.jar)
+                                        com.teamderpy.shouldersurfing.asm.ShoulderTransformations
+                                      LoadingPlugin (AdPother-1.12.2-1.2.0.0-build.0454.jar)
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Vanilla
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$DynamicSurroundings
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Mesh
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Render
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$FurnaceDouble
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.BetterWithMods$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.CookingForBlockheads$Oven
+                                        com.endertech.minecraft.mods.adpother.transformers.DraconicEvolution$Generator
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$EmberBore
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$SteamEngine
+                                        com.endertech.minecraft.mods.adpother.transformers.EnderIO$StirlingGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.EngineersDecor$DecorFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FurnaceOverhaul$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FutureMC$AdvancedFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.FloodLights$CarbonFloodlight
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$AutoRocket
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$Buggy
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveCraft$FurnaceTE
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityCokeOven
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityBlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$TileEntityDieselGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$Motorboat
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$PortableGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveDiesel
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveSteam
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveTechnology$Boiler
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$CombustionChamber
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberSolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberLiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Mekanism$FuelwoodHeater
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Alloyer
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Crusher
+                                        com.endertech.minecraft.mods.adpother.transformers.Minecraft$AnimalFeeding
+                                        com.endertech.minecraft.mods.adpother.transformers.MoreFurnaces$IronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$InferiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$IntermediumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$PrudentiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SuperiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SupremiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$UltimateFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Natura$NetherrackFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.PneumaticCraft$AirCompressor
+                                        com.endertech.minecraft.mods.adpother.transformers.PrimalCore$RecipeHelper
+                                        com.endertech.minecraft.mods.adpother.transformers.Pyrotech$TileCombustion
+                                        com.endertech.minecraft.mods.adpother.transformers.RealisticTorches$BlockTorch
+                                        com.endertech.minecraft.mods.adpother.transformers.RFTools$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.StevesCarts$ModuleCoal
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronAlloyFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileSolidFuelGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersConstruct$HeatingStructure
+                                        com.endertech.minecraft.mods.adpother.transformers.SimpleGrinder$CoalGrinder
+                                        com.endertech.minecraft.mods.adpother.transformers.UltimateCarMod$Car
+                                        com.endertech.minecraft.mods.adpother.transformers.ViesCraft$AirShip
+                                        com.endertech.minecraft.mods.adpother.renders.AerometerRender
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockCaughtFire
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockUpdateTick
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockExploded
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$GetSkyColor
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$FurnaceFuelBurned
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$LavaTouchesWater
+                                      CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+                                        team.chisel.ctm.client.asm.CTMTransformer
+                                      llibrary (llibrary-core-1.0.11-1.12.2.jar)
+                                        net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+                                        net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+                                      Quark Plugin (Quark-r1.6-178.jar)
+                                        vazkii.quark.base.asm.ClassTransformer
+                                      iceandfire (iceandfire-1.8.4.jar)
+                                        com.github.alexthe666.iceandfire.patcher.IceAndFireRuntimePatcher
+                                      PhosphorFMLLoadingPlugin (phosphor-1.12.2-0.2.6+build50-universal.jar)
+                                        
+                                      BlurPlugin (Blur-1.0.4-14.jar)
+                                        com.tterrag.blur.BlurTransformer
+                                      BNBGamingCore (BNBGamingCore-1.12.2-0.11.0.jar)
+                                        com.bloodnbonesgaming.bnbgamingcore.core.BNBGamingCoreClassTransformer
+                                      JechCore (JustEnoughCharacters-1.12.0-3.4.7.jar)
+                                        me.towdium.jecharacters.core.JechClassTransformer
+                                      VanillaFixLoadingPlugin (VanillaFix-1.0.10-99.jar)
+                                        
+                                      CreativePatchingLoader (CreativeCore_v1.10.10_mc1.12.2.jar)
+                                        
+                                      LoadingPlugin (ResourceLoader-MC1.12.1-1.5.3.jar)
+                                        lumien.resourceloader.asm.ClassTransformer
+                                      SurgeLoadingPlugin (Surge-1.12.2-2.0.77.jar)
+                                        
+                                      CoreModLoader (Sound-Physics-1.12.2.jar)
+                                        com.sonicether.soundphysics.CoreModInjector
+  GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 442.19' Renderer: 'GeForce GTX 1050 Ti/PCIe/SSE2'
+  Suspected Mods: Custom Main Menu (custommainmenu)
+  Launched Version: HMCL 3.2.149
+  LWJGL: 2.9.4
+  OpenGL: GeForce GTX 1050 Ti/PCIe/SSE2 GL version 4.6.0 NVIDIA 442.19, NVIDIA Corporation
+  GL Caps: Using GL 1.3 multitexturing.
+           Using GL 1.3 texture combiners.
+           Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+           Shaders are available because OpenGL 2.1 is supported.
+           VBOs are available because OpenGL 1.5 is supported.
+  Using VBOs: Yes
+  Is Modded: Definitely; Client brand changed to 'fml,forge'
+  Type: Client (map_client.txt)
+  Resource Packs: Minecraft-Mod-Language-Modpack.zip
+  Current Language: 简体中文 (中国)
+  Profiler Position: N/A (disabled)
+  CPU: 6x Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz
