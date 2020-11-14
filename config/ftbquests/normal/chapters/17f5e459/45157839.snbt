@@ -5,11 +5,33 @@
 	text: [
 		"很快啊！你手里开始有些有用的东西了，现在用它们制造些趁手的家伙。"
 	],
+	dependencies: [
+		"f6e8d1f0",
+		"2db70e54"
+	],
 	tasks: [{
 		uid: "7df4b0a5",
 		type: "item",
 		items: [{
 			item: "pyrotech:crude_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "244e14dc",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_hammer"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "dcfdeb78",
+		type: "item",
+		items: [{
+			item: "pyrotech:crude_pickaxe"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

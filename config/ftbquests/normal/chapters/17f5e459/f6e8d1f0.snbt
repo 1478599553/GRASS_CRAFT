@@ -5,6 +5,9 @@
 	text: [
 		"地上散落着一些小石块，我顺手把它们收入囊中。"
 	],
+	dependencies: [
+		"dfc646dc"
+	],
 	tasks: [{
 		uid: "41c12061",
 		type: "item",

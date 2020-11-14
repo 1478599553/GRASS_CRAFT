@@ -1,11 +1,15 @@
 {
 	x: 3.0d,
 	y: -49.0d,
+	dependencies: [
+		"dfc646dc"
+	],
 	tasks: [{
 		uid: "ab19a5cd",
 		type: "item",
 		items: [{
 			item: "minecraft:stick"
-		}]
+		}],
+		count: 10L
 	}]
 }
