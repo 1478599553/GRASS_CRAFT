@@ -1,6 +1,8 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.removeShapeless(<quark:arrow_torch>, [<minecraft:arrow>, <minecraft:torch>]);
+recipes.removeShapeless(<pyrotech:torch_stone>, [ <pyrotech:material:21>, <pyrotech:material:27>]);
 recipes.removeShaped(<charset:pockettable>, [[null, <minecraft:crafting_table>, null], [<minecraft:stick>, null, null]]);
 recipes.remove(<minecraft:torch>);
 recipes.remove(<immersiveengineering:metal:9>);
